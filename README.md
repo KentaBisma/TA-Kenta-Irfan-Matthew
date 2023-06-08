@@ -1,2 +1,1 @@
-# TA-Kenta-Irfan-Matthew
-Ini adalah repositori untuk TA.
+# Segmentasi Video Perkuliahan Otomatis dengan Optical Character Recognition dan Topic Modelling
