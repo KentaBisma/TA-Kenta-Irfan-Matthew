@@ -12,18 +12,17 @@ def export_result(df: pd.DataFrame, folder: str):
 
 
 for folder in os.listdir("Dataset"):
-    if folder == "pengcit_1":
-        list = []
-        for filename in os.listdir(f"Dataset/{folder}"):
-            result = prepare_output(do_OCR(f"Dataset/{folder}/{filename}"))
-            if (result == ""):
-                continue
-            print(result)
-            list.append((filename.split(".")[0], result))
-            print("------------------------------------")
+    list = []
+    for filename in os.listdir(f"Dataset/{folder}"):
+        result = prepare_output(do_OCR(f"Dataset/{folder}/{filename}"))
+        if (result == ""):
+            continue
+        print(result)
+        list.append((filename.split(".")[0], result))
+        print("------------------------------------")
 
-        df = pd.DataFrame(list, columns=["timestamp", "text"])
-        export_result(df, folder)
+    df = pd.DataFrame(list, columns=["timestamp", "text"])
+    export_result(df, folder)
 
 # for folder in os.listdir("Dataset"):
 #     list_raw = []
@@ -37,5 +36,3 @@ for folder in os.listdir("Dataset"):
 
 #     df_raw = pd.DataFrame(list_raw, columns=["timestamp", "text"])
 #     export_result(df_raw, f"raw_{folder}")
-
-# print(prepare_output(do_OCR("12-39.jpg")))
