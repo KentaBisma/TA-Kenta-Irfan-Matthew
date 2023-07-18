@@ -1,0 +1,1 @@
+DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl)

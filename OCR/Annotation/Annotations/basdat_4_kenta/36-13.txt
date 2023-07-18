@@ -1,0 +1,10 @@
+The DELETE Command
+Removes tuples from a relation
+Includes a WHERE clause to select the tuples to be deleted
+U4A: DELETE FROM EMPLOYEE
+WHERE Lname='Brown';
+U4B: DELETE FROM EMPLOYEE
+WHERE Ssn='123456789';
+U4C: DELETE FROM EMPLOYEE
+WHERE Dno=5;
+U4B: DELETE FROM EMPLOYEE;

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+HYP: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 63 of 63
+
+
+IRFAN VS RAFI
+REF: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+HYP: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 63 of 63
+
+
+KENTA VS RAFI
+REF: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+HYP: Socket programming with UDP UDP: no “connection” between client and server: no handshaking before sending data sender explicitly attaches IP destination address and port # to each packet receiver extracts sender IP address and port# from received packet UDP: transmitted data may be lost or received out-of-order Application viewpoint: UDP provides unreliable transfer of groups of bytes (“datagrams”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 63 of 63
+
+SHEET -> 03-14.txt;0;0;0;63;63;0;0;0;63;63;0;0;0;63;63
+

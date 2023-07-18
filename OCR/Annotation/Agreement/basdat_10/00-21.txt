@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: References
+HYP: References
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 1 of 1
+
+
+IRFAN VS RAFI
+REF: References
+HYP: References
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 1 of 1
+
+
+KENTA VS RAFI
+REF: References
+HYP: References
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 1 of 1
+
+SHEET -> 00-21.txt;0;0;0;1;1;0;0;0;1;1;0;0;0;1;1
+

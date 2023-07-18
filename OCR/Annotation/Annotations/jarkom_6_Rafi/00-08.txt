@@ -1,0 +1,4 @@
+Application Layer (4/7)
+Domain Name System
+CSCM603154 – Computer Networks
+Faculty of Computer Science, Universitas Indonesia

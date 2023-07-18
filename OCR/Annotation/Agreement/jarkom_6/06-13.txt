@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+IRFAN VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+KENTA VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+SHEET -> 06-13.txt;0;0;0;21;21;0;0;0;21;21;0;0;0;21;21
+

@@ -1,0 +1,6 @@
+Streaming multimedia: DASH
+“intelligence” at client: client determines
+when to request chunk (so that buffer starvation, or overflow does not occur)
+what encoding rate to request (higher quality when more bandwidth available)
+where to request chunk (can request from URL server that is “close” to client or has high available bandwidth)
+Streaming video = encoding + DASH + playout buffering

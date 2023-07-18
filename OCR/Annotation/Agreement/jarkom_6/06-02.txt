@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+HYP: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+
+IRFAN VS RAFI
+REF: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+HYP: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+
+KENTA VS RAFI
+REF: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+HYP: Thinking about the DNS humongous distributed database: ~ billion records, each simple handles many trillions of queries/day: many more reads than writes performance matters: almost every Internet transaction interacts with DNS - msecs count! organizationally, physically decentralized: millions of different organizations responsible for their records “bulletproof”: reliability, security
+                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+SHEET -> 06-02.txt;0;0;0;48;48;0;0;0;48;48;0;0;0;48;48
+

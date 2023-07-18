@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+IRFAN VS RAFI
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+KENTA VS RAFI
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+SHEET -> 08-38.txt;0;0;0;35;35;0;0;0;35;35;0;0;0;35;35
+

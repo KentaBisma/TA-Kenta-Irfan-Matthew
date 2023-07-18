@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+HYP: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+                                                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 45 of 45
+
+
+IRFAN VS RAFI
+REF: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+HYP: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+                                                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 45 of 45
+
+
+KENTA VS RAFI
+REF: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+HYP: Exercise 4. For each project, list the project name and the total hours per week (by all employees) spent on that project. 5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.
+                                                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 45 of 45
+
+SHEET -> 14-18.txt;0;0;0;45;45;0;0;0;45;45;0;0;0;45;45
+

@@ -1,0 +1,7 @@
+Domains in SQL
+Domain
+It is possible to specify data type directly
+Makes it easier to change the data type for a domain that is used by numerous attributes
+Improves schema readibility
+Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc.
+CREATE DOMAIN SSN_TYPE AS CHAR(9);

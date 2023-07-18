@@ -1,0 +1,5 @@
+Additional RA Operations
+Aggregate & Grouping
+Recursive Closure Relation
+Outer Join
+Outer Union

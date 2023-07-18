@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN  Ssn(Fname=‘James’ AND Lname=‘Borg’(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN) *********** ******* *** ** ********** ***** *********** **** **** ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* **** ******* *** ********* ********* *********** ** *****
+HYP: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN Ssn(σFname='James' AND Lname='Borg'(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN) SUPERVISION (Borg's Ssn is 888665555) (Ssn) (Super_ssn) Ssn1 Ssn2 123456789 333445555 333445555 888665555 999887777 987654321 987654321 888665555 666884444 333445555 453453453 333445555 987987987 987654321 888665555 null RESULT1 Ssn 333445555 987654321 (Supervised by Borg)
+                                                                                                                                                        S                           S                                                                                                           I       I   I  I          I     I           I    I    I         I         I         I         I         I         I         I         I         I         I         I         I         I         I         I    I       I   I         I         I           I  I     I
+Substitutions: 2
+Insertions   : 32
+Deletions    : 0
+Hits         : 26 of 60
+
+
+IRFAN VS RAFI
+REF: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN *** Ssn(Fname=‘James’ AND Lname=‘Borg’(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN)
+HYP: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN SSN    (Fname='James' AND Lname='Borg'(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN)
+                                                                                                                                         I                 S                           S                                                                                                
+Substitutions: 2
+Insertions   : 1
+Deletions    : 0
+Hits         : 26 of 29
+
+
+KENTA VS RAFI
+REF: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN *** Ssn(σFname='James' AND Lname='Borg'(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN) SUPERVISION (Borg's Ssn is 888665555) (Ssn) (Super_ssn) Ssn1 Ssn2 123456789 333445555 333445555 888665555 999887777 987654321 987654321 888665555 666884444 333445555 453453453 333445555 987987987 987654321 888665555 null RESULT1 Ssn 333445555 987654321 (Supervised by Borg)
+HYP: Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN SSN     (Fname='James' AND Lname='Borg'(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN) *********** ******* *** ** ********** ***** *********** **** **** ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* ********* **** ******* *** ********* ********* *********** ** *****
+                                                                                                                                         I                  S                                                                                                                                       D       D   D  D          D     D           D    D    D         D         D         D         D         D         D         D         D         D         D         D         D         D         D         D    D       D   D         D         D           D  D     D
+Substitutions: 1
+Insertions   : 1
+Deletions    : 32
+Hits         : 27 of 60
+
+SHEET -> 08-04.txt;2;32;0;26;60;2;1;0;26;29;1;1;32;27;60
+

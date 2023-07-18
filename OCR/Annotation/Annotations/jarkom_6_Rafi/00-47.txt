@@ -1,0 +1,3 @@
+DNS: Domain Name System
+people: many identifiers:
+SSN, name, passpor #

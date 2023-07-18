@@ -1,0 +1,5 @@
+Modifying Database - DML
+Three commands to modify the database
+INSERT
+DELETE
+UPDATE

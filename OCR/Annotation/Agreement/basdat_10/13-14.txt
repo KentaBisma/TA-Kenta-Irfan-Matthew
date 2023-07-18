@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from    Student relation NULL for tuples from Instructor relation
+HYP: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from Instructor relation NULL for tuples from    Student relation
+                                                                                                                                                                                                                                                                       S                                        S         
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 36 of 38
+
+
+IRFAN VS RAFI
+REF: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from    Student relation NULL for tuples from Instructor relation
+HYP: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from Instructor relation NULL for tuples from    Student relation
+                                                                                                                                                                                                                                                                       S                                        S         
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 36 of 38
+
+
+KENTA VS RAFI
+REF: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from Instructor relation NULL for tuples from Student relation
+HYP: Outer UNION Example: Student(Name, Ssn, Department, Advisor) Instructor(Name, Ssn, Department, Rank) The resulting relation from applying Outer Union: STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank) Appear only once NULL for tuples from Instructor relation NULL for tuples from Student relation
+                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+SHEET -> 13-14.txt;2;0;0;36;38;2;0;0;36;38;0;0;0;38;38
+

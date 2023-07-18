@@ -1,0 +1,3 @@
+References
+Elmasri 6th edition: Chapter 6
+Stanford Database (CS145) Lecture 16

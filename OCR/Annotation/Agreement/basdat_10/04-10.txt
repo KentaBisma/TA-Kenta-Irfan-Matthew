@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Query Tree
+HYP: Query Tree
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 2 of 2
+
+
+IRFAN VS RAFI
+REF: Query Tree
+HYP: Query Tree
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 2 of 2
+
+
+KENTA VS RAFI
+REF: Query Tree
+HYP: Query Tree
+               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 2 of 2
+
+SHEET -> 04-10.txt;0;0;0;2;2;0;0;0;2;2;0;0;0;2;2
+

@@ -1,0 +1,1 @@
+Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor)

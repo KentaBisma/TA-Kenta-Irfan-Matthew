@@ -1,0 +1,8 @@
+Streaming multimedia: DASH
+Dynamic, Adaptive Streaming over HTTP
+server:
+divides video file into multiple chunks
+each chunk encoded at multiple different rates
+different rate encodings stored in different files
+files replicated in various CDN nodes
+manifest file: provides URLs for different chunks

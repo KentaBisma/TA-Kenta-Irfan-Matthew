@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 100 of 100
+
+
+IRFAN VS RAFI
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 100 of 100
+
+
+KENTA VS RAFI
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact Client contacts server by: Creating TCP socket, specifying IP address, port number of server process when client creates socket: client TCP establishes connection to server TCP when contacted by client, server TCP creates new socket for server process to communicate with that particular client allows server to talk with multiple clients source port numbers used to distinguish clients (more in Chap 3) Application viewpoint TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 100 of 100
+
+SHEET -> 07-42.txt;0;0;0;100;100;0;0;0;100;100;0;0;0;100;100
+

@@ -1,0 +1,7 @@
+DNS: a distributed, hierarchical database
+Root DNS Servers
+Root
+.com DNS servers
+.org DNS servers
+.edu DNS servers
+Top Level Domain

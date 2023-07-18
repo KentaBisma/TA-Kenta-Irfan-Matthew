@@ -1,0 +1,1 @@
+Socket programming goal: learn how to build client/server applications that communicate using sockets

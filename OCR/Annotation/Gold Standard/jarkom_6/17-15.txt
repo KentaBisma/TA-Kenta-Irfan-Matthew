@@ -1,0 +1,1 @@
+DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous Spoofing attacks intercept DNS queries, returning bogus replies DNS cache poisoning RFC 4033: DNSSEC authentication services

@@ -1,0 +1,3 @@
+Exercise
+4. For each project, list the project name and the total hours per week (by all employees) spent on that project.
+5. List the name of the employees and their total working hours of all the same projects also done by the James Borg.

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close     clientSocket
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close connectionSocket
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             S
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 54 of 55
+
+
+IRFAN VS RAFI
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close clientSocket
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close clientSocket
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 55 of 55
+
+
+KENTA VS RAFI
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close connectionSocket
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket() send request using clientSocket read request from connectionSocket write reply to connectionSocket read reply from clientSocket close connectionSocket close     clientSocket
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             S
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 54 of 55
+
+SHEET -> 08-36.txt;1;0;0;54;55;0;0;0;55;55;1;0;0;54;55
+

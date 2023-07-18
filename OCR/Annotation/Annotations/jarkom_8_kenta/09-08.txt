@@ -1,0 +1,3 @@
+Streaming stored video
+simple scenario:
+Main challenges:

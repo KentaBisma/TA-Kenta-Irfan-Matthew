@@ -1,0 +1,5 @@
+The INSERT Command
+In its simplest form, it is used to add one or more tuples to a relation (table)
+Attribute values should be listed in the same order as the attributes were specified in the
+CREATE TABLE command
+U1: INSERT INTO EMPLOYEE VALUES ( ‘Richard’, ‘K’, ‘Martini’, ‘653298653’, ‘1962-12-30’, ‘98 Oak Forest, Katy, TX’, ‘M’, 37000, ‘653298653’, 4 )

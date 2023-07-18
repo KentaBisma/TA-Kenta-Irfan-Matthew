@@ -1,0 +1,3 @@
+Streaming stored video: challenges
+continuous playout constraint: during client video playout, playout timing must match original timing
+… but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint

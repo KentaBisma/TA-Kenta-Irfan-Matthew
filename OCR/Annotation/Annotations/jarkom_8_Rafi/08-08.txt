@@ -1,0 +1,7 @@
+Multimedia: video
+CBR: (constant bit rate): video encoding rate fixed
+VBR:  (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes 
+spatial coding example: instead of sending N values of same color (all purple), send only two values: color  value (purple)  and number of repeated values (N)
+frame i
+temporal coding example: instead of sending complete frame at i+1, send only differences from frame i
+frame i+1

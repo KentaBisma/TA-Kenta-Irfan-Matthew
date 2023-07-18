@@ -1,0 +1,5 @@
+Recursive Closure
+(Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’.
+RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=Ssn RESULT1)
+To get both set of employees supervised at level 1 and 2 by James Borg:
+RESULT RESULT1 RESULT2

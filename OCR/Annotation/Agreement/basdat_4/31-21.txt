@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES                                                    ( ‘Richard’, ‘K’, ‘Martini’, ‘653298653’, ‘1962-12-30’, ‘98 Oak Forest, Katy,                        TX’, ‘M’, 37000, ‘653298653’, 4 )
+HYP: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES ('Richard','K','Marini','653298653','1962-12-30','98 ********** **** ********** ************ ************* *** Oak Forest, Katy, TX','M',37000,'653298653',4   ); ****** ************ * *
+                                                                                                                                                                                                                                                                                                             S          D    D          D            D             D   D                                             S    S      D            D D D
+Substitutions: 3
+Insertions   : 0
+Deletions    : 10
+Hits         : 47 of 60
+
+
+IRFAN VS RAFI
+REF: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES ( ‘Richard’, ‘K’, ‘Martini’, ‘653298653’, ‘1962-12-30’, ‘98 Oak Forest, Katy, TX’, ‘M’, 37000, ‘653298653’, 4  )
+HYP: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES ( 'Richard', 'K',  'Marini', '653298653', '1962-12-30', '98 Oak Forest, Katy, TX', 'M', 37000, '653298653', 4 );
+                                                                                                                                                                                                                                                                     S    S          S            S             S   S                      S    S                   S    S
+Substitutions: 10
+Insertions   : 0
+Deletions    : 0
+Hits         : 50 of 60
+
+
+KENTA VS RAFI
+REF: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES * ********** **** ********* ************ ************* ('Richard','K','Marini','653298653','1962-12-30','98 Oak Forest, Katy, **** **** ****** ************ TX','M',37000,'653298653',4 );
+HYP: The INSERT Command In its simplest form, it is used to add one or more tuples to a relation (table) Attribute values should be listed in the same order as the attributes were specified in the CREATE TABLE command U1: INSERT INTO EMPLOYEE VALUES ( 'Richard', 'K', 'Marini', '653298653', '1962-12-30',                                                  '98 Oak Forest, Katy, TX', 'M', 37000, '653298653',                           4 );
+                                                                                                                                                                                                                                                          I          I    I         I            I             I                                                    S                      I    I      I            I                           S   
+Substitutions: 2
+Insertions   : 10
+Deletions    : 0
+Hits         : 48 of 60
+
+SHEET -> 31-21.txt;3;0;10;47;60;10;0;0;50;60;2;10;0;48;60
+

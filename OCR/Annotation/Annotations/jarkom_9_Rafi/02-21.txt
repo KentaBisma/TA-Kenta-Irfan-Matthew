@@ -1,0 +1,4 @@
+Socket programming with UDP
+UDP: no “connection” between client and server:
+no handshaking before sending data
+sender explicitly attaches IP destination address and port # to each packet

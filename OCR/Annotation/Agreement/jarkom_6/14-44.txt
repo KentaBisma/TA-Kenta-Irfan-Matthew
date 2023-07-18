@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+
+IRFAN VS RAFI
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+
+KENTA VS RAFI
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers cached entries may be out-of-date if named host changes IP address, may not be known Internet-wide until all TTLs expire! best-effort name-to-address translation!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+SHEET -> 14-44.txt;0;0;0;66;66;0;0;0;66;66;0;0;0;66;66
+

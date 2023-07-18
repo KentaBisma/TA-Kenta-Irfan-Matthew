@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+IRFAN VS RAFI
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+KENTA VS RAFI
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?
+                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+SHEET -> 13-13.txt;0;0;0;32;32;0;0;0;32;32;0;0;0;32;32
+

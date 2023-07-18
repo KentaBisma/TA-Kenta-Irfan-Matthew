@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema * Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+HYP: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema – Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+                                                                                   I                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 1
+Deletions    : 0
+Hits         : 47 of 48
+
+
+IRFAN VS RAFI
+REF: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema * Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+HYP: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema – Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+                                                                                   I                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 1
+Deletions    : 0
+Hits         : 47 of 48
+
+
+KENTA VS RAFI
+REF: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema – Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+HYP: SQL DDL and DML DDL : Data Definition Language Defining the Relational Schema – Relations, Attributes, Domain, The Meta-Data Create table Drop table Alter table etc. DML : Data Manipulation Language Defining the Queries Against the Schema Select, Insert, Update, Delete More commands Indexes, Constraints, Views, Triggers, Transactions
+                                                                                                                                                                                                                                                                                                                                                    
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+SHEET -> 02-35.txt;0;1;0;47;48;0;1;0;47;48;0;0;0;48;48
+

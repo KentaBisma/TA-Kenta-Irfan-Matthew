@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+HYP: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+                                                                                                                                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 56 of 56
+
+
+IRFAN VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+                                                                         S                                                                                                                                                                                                                                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 55 of 56
+
+
+KENTA VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ? Domain Name System (DNS): distributed database implemented in hierarchy of many name servers
+                                                                         S                                                                                                                                                                                                                                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 55 of 56
+
+SHEET -> 02-00.txt;0;0;0;56;56;1;0;0;55;56;1;0;0;55;56
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+HYP: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 43 of 43
+
+
+IRFAN VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+                                                                         S                                                                                                                                                                                       
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 42 of 43
+
+
+KENTA VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans Q: how to map between IP address and name, and vice versa ?
+                                                                         S                                                                                                                                                                                       
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 42 of 43
+
+SHEET -> 01-27.txt;0;0;0;43;43;1;0;0;42;43;1;0;0;42;43
+

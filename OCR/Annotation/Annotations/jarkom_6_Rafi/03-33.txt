@@ -1,0 +1,8 @@
+DNS: services, structure
+DNS services:
+hostname-to-IP-address translation
+host aliasing
+canonical, alias names
+mail server aliasing
+load distribution
+replicated Web servers: many IP addresses correspond to one name

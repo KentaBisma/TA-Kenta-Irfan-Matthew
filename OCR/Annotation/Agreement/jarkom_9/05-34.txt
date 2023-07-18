@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(), (serverName, serverPort)) **************** ************* * *************************** ***** ************************ ******************** read reply characters from socket into string modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() read reply characters from socket into string **************** ************* * *************************** ***** ************************ ********************
+                                                                                                                                                                                                                                                                                         I             I I                           I     I                        I                    I                                                              D             D D                           D     D                        D                    D
+Substitutions: 0
+Insertions   : 7
+Deletions    : 7
+Hits         : 35 of 42
+
+
+IRFAN VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’)             clientSocket.sendto(message.encode(), (serverName, serverPort)) read reply characters from socket into string modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(),(serverName, ************ serverPort)) read reply characters from socket into string modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+                                                                                                                                                                                                                                                          S            D                                                                                                                                                                            
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 40 of 42
+
+
+KENTA VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) ************************************************* ************ **** ***** ********** **** clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() read reply characters from socket into string
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(),(serverName, serverPort)) read reply characters from                                socket         into       string modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() **** ***** ********** **** ****** **** ******
+                                                                                                                                                                                                                                                          I            I    I     I          I    I                                     S            S            S                                                                                                                     D     D          D    D      D    D      D
+Substitutions: 3
+Insertions   : 6
+Deletions    : 7
+Hits         : 32 of 42
+
+SHEET -> 05-34.txt;0;7;7;35;42;1;0;1;40;42;3;6;7;32;42
+

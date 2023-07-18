@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Application Layer: Overview P2P applications Principles of network applications Video streaming and content distribution networks ****** *********** **** Web and ***       HTTP Socket programming         with UDP and  TCP The Domain Name System ***
+HYP: Application Layer: Overview P2P applications      video ** ******* ************ ***** streaming and content distribution networks socket programming with UDP and TCP Principles     of     network applications Web and HTTP The Domain Name System DNS
+                                                           S  D       D            D     D                                                  I           I    I   S       I          S      S           S            S   S        S                          I
+Substitutions: 8
+Insertions   : 5
+Deletions    : 4
+Hits         : 16 of 29
+
+
+IRFAN VS RAFI
+REF: Application Layer: Overview P2P applications Principles of network applications Video streaming and content distribution networks Web and HTTP Socket programming with UDP and TCP The Domain Name System ***
+HYP: Application Layer: Overview P2P applications Principles of network applications video streaming and content distribution networks Web and HTTP socket programming with UDP and TCP The Domain Name System DNS
+                                                                                         S                                                               S                                                       I
+Substitutions: 2
+Insertions   : 1
+Deletions    : 0
+Hits         : 26 of 29
+
+
+KENTA VS RAFI
+REF: Application Layer: Overview P2P applications ********** ** ******* ************ video streaming and content distribution networks *** *** **** socket programming with UDP and TCP Principles of network applications Web and HTTP The Domain Name System DNS
+HYP: Application Layer: Overview P2P applications Principles of network applications video streaming and content distribution networks Web and HTTP socket programming with UDP and TCP ********** ** ******* ************ *** *** **** The Domain Name System DNS
+                                                           I  I       I            I                                                     I   I    I                                              D  D       D            D   D   D    D                           
+Substitutions: 0
+Insertions   : 7
+Deletions    : 7
+Hits         : 22 of 29
+
+SHEET -> 00-38.txt;8;5;4;16;29;2;1;0;26;29;0;7;7;22;29
+

@@ -1,0 +1,12 @@
+Socket programming with TCP
+Client must contact server
+server process must first be running
+server must have created socket (door) that welcomes client’s contact
+Client contacts server by:
+Creating TCP socket, specifying IP address, port number of server process
+when client creates socket: client TCP establishes connection to server TCP
+when contacted by client, server TCP creates new socket for server process to communicate with that particular client
+allows server to talk with multiple clients
+source port numbers used to distinguish clients (more in Chap 3)
+Application viewpoint
+TCP provides reliable, in-order byte-stream transfer (“pipe”) between client and server processes

@@ -1,0 +1,6 @@
+Outer JOIN
+Notation: R1 R2 (left) or R1 R2 (Right) or R1 R2 (full)
+Example:
+Left Outer JOIN
+TEMP (EMPLOYEE Ssn=Mgr_ssnDEPARTMENT)
+RESULT Fname, Minit, Lname, Dname(TEMP)

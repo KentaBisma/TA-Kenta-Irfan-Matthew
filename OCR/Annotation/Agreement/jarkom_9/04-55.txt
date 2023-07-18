@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) get user keyboard input message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() *** **** ******** *****
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) *** **** ******** ***** message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() get user keyboard input
+                                                                                                                                                           D    D        D     D                                                                                                                                                                                                                                     I    I        I     I
+Substitutions: 0
+Insertions   : 4
+Deletions    : 4
+Hits         : 35 of 39
+
+
+IRFAN VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) get user keyboard input message = raw_input(’Input lowercase sentence:’)             clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) get user keyboard input message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(),(serverName, ************ serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+                                                                                                                                                                                                                                                                                  S            D                                                                                                                              
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 37 of 39
+
+
+KENTA VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) *** **** ******** ***** message = raw_input(’Input lowercase sentence:’)             clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() get user keyboard input
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) get user keyboard input message = raw_input(’Input lowercase sentence:’) clientSocket.sendto(message.encode(),(serverName, ************ serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() *** **** ******** *****
+                                                                                                                                                           I    I        I     I                                                                                                  S            D                                                                                                                                 D    D        D     D
+Substitutions: 1
+Insertions   : 4
+Deletions    : 5
+Hits         : 33 of 39
+
+SHEET -> 04-55.txt;0;4;4;35;39;1;0;1;37;39;1;4;5;33;39
+

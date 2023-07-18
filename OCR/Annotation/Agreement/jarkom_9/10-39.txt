@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+HYP: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+IRFAN VS RAFI
+REF: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+HYP: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+KENTA VS RAFI
+REF: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+HYP: Chapter 2: Summary our study of network application layer is now complete! application architectures client-server P2P application service requirements: reliability, bandwidth, delay Internet transport service model connection-oriented, reliable: TCP unreliable, datagrams: UDP
+                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+SHEET -> 10-39.txt;0;0;0;32;32;0;0;0;32;32;0;0;0;32;32
+

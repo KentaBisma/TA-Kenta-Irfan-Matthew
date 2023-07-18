@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or timestamp
+HYP: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or timestamp
+                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 60 of 60
+
+
+IRFAN VS RAFI
+REF: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or timestamp
+HYP: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or  timestam
+                                                                                                                                                                                                                                                                                                                                                                                         S
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 59 of 60
+
+
+KENTA VS RAFI
+REF: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or timestamp
+HYP: Data Types in SQL Additional data types Timestamp data type (TIMESTAMP) Includes the DATE and TIME fields Plus a minimum of six positions for decimal fractions of seconds Optional WITH TIME ZONE qualifier Ex: ‘2008-09-27 9:12:47.648302’ INTERVAL data type Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or  timestam
+                                                                                                                                                                                                                                                                                                                                                                                         S
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 59 of 60
+
+SHEET -> 11-43.txt;0;0;0;60;60;1;0;0;59;60;1;0;0;59;60
+

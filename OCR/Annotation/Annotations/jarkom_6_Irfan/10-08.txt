@@ -1,0 +1,2 @@
+Local DNS name servers
+when host makes DNS query, it is sent to its local DNS server

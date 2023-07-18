@@ -1,0 +1,9 @@
+Data Types in SQL
+Additional data types
+Timestamp data type (TIMESTAMP)
+Includes the DATE and TIME fields
+Plus a minimum of six positions for decimal fractions of seconds
+Optional WITH TIME ZONE qualifier
+Ex: ‘2008-09-27 9:12:47.648302’
+INTERVAL data type
+Specifies a relative value that can be used to increment or decrement an absolute value of a date, time, or timestamp

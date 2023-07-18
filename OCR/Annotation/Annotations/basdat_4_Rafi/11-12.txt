@@ -1,0 +1,9 @@
+Data Types in SQL
+Bit-string data types
+Fixed length: BIT(n)
+Varying length: BIT VARYING(n)
+Boolean data type
+Values of TRUE or FALSE or NULL
+DATE data type
+Ten positions
+Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD

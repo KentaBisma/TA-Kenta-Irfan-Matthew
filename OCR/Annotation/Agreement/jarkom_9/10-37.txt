@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() ******** * ************************************ ******************* * **************** ****************************************** ********* ************************ read bytes from socket (but not address as in UDP) sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() read bytes from socket (but not address as in UDP) ******** * ************************************ ******************* * **************** *************************************************** ************************
+                                                                                                                                                                                                                                                                                                    I I                                    I                   I I                I                                          I         I                        I                                                           D D                                    D                   D D                D                                                   D                        D
+Substitutions: 0
+Insertions   : 9
+Deletions    : 8
+Hits         : 41 of 50
+
+
+IRFAN VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() read bytes from socket (but not address as in UDP) sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() read bytes from socket (but not address as in UDP) sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 49 of 49
+
+
+KENTA VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() read bytes from socket (but not address as in UDP) ******** * ************************************ ******************* * **************** *************************************************** ************************
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() ******** * ************************************ ******************* * **************** ****************************************** ********* ************************ read bytes from socket (but not address as in UDP) sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                    D D                                    D                   D D                D                                          D         D                        D                                                           I I                                    I                   I I                I                                                   I                        I
+Substitutions: 0
+Insertions   : 8
+Deletions    : 9
+Hits         : 41 of 50
+
+SHEET -> 10-37.txt;0;9;8;41;50;0;0;0;49;49;0;8;9;41;50
+

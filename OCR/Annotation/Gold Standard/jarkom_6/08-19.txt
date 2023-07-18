@@ -1,0 +1,1 @@
+DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name

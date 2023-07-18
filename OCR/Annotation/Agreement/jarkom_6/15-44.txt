@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS protocol messages DNS query and reply messages, both have same format: message header: * ***** * ***** identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+HYP: DNS protocol messages DNS query and reply messages, both have same format: message header: 2 bytes 2 bytes identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+                                                                                                I     I I     I                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 4
+Deletions    : 0
+Hits         : 48 of 52
+
+
+IRFAN VS RAFI
+REF: DNS protocol messages DNS query and reply messages, both have same format: message header: identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+HYP: DNS protocol messages DNS query and reply messages, both have same format: message header: identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+                                                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+
+KENTA VS RAFI
+REF: DNS protocol messages DNS query and reply messages, both have same format: message header: 2 bytes 2 bytes identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+HYP: DNS protocol messages DNS query and reply messages, both have same format: message header: * ***** * ***** identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)
+                                                                                                D     D D     D                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 4
+Hits         : 48 of 52
+
+SHEET -> 15-44.txt;0;4;0;48;52;0;0;0;48;48;0;0;4;48;52
+

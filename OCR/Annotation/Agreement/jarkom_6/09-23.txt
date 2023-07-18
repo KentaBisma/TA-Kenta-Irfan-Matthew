@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+
+IRFAN VS RAFI
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+
+KENTA VS RAFI
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain 13 logical root name “servers” worldwide each “server” replicated many times (~200 servers in US)
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+SHEET -> 09-23.txt;0;0;0;57;57;0;0;0;57;57;0;0;0;57;57
+

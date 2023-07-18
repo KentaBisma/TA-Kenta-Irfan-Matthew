@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+
+IRFAN VS RAFI
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+
+KENTA VS RAFI
+REF: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+HYP: Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+SHEET -> 13-59.txt;0;0;0;23;23;0;0;0;23;23;0;0;0;23;23
+

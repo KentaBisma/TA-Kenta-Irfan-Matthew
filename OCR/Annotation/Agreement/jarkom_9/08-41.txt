@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 create TCP socket for server, remote port 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close() ****** *** ****** *** ******* ****** **** *****
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 ****** *** ****** *** ******* ****** **** ***** clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close() create TCP socket for server, remote port 12000
+                                                                                                                     D   D      D   D       D      D    D     D                                                                                                                                                                                                                                                                                                         I   I      I   I       I      I    I     I
+Substitutions: 0
+Insertions   : 8
+Deletions    : 8
+Hits         : 35 of 43
+
+
+IRFAN VS RAFI
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 create TCP socket for server, remote port 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 create TCP socket for server, remote port 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 43 of 43
+
+
+KENTA VS RAFI
+REF: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 ****** *** ****** *** ******* ****** **** ***** clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close() create TCP socket for server, remote port 12000
+HYP: Example app: TCP client Python TCPClient from socket import * serverName = ’servername’ serverPort = 12000 create TCP socket for server, remote port 12000 clientSocket = socket(AF_INET, SOCK_STREAM) clientSocket.connect((serverName,serverPort)) sentence = raw_input(‘Input lowercase sentence:’) clientSocket.send(sentence.encode()) modifiedSentence = clientSocket.recv(1024) print (‘From Server:’, modifiedSentence.decode()) clientSocket.close() ****** *** ****** *** ******* ****** **** *****
+                                                                                                                     I   I      I   I       I      I    I     I                                                                                                                                                                                                                                                                                                         D   D      D   D       D      D    D     D
+Substitutions: 0
+Insertions   : 8
+Deletions    : 8
+Hits         : 35 of 43
+
+SHEET -> 08-41.txt;0;8;8;35;43;0;0;0;43;43;0;8;8;35;43
+

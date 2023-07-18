@@ -1,0 +1,6 @@
+DNS records
+DNS: distributed database storing resource records (RR)
+RR format: (name, value, type, ttl)
+type=A
+name is hostname
+value is IP address

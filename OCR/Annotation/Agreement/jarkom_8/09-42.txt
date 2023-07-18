@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming stored video simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+HYP: Streaming stored video simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+                                                                                                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+
+IRFAN VS RAFI
+REF: Streaming stored video ******** ***** ****** ******* simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+HYP: Streaming stored video Internet video server (stored video)    client Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+                                   I     I      I       I      S         S                                                                                                                                                                                                                                                         
+Substitutions: 2
+Insertions   : 4
+Deletions    : 0
+Hits         : 39 of 45
+
+
+KENTA VS RAFI
+REF: Streaming stored video ******** ***** ****** ******* simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+HYP: Streaming stored video Internet video server (stored video)    client Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality
+                                   I     I      I       I      S         S                                                                                                                                                                                                                                                         
+Substitutions: 2
+Insertions   : 4
+Deletions    : 0
+Hits         : 39 of 45
+
+SHEET -> 09-42.txt;0;0;0;41;41;2;4;0;39;45;2;4;0;39;45
+

@@ -1,0 +1,1 @@
+DNS protocol messages DNS query and reply messages, both have same format: message header: 2 bytes 2 bytes identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable # of questions) answers (variable # of RRs) authority (variable # of RRs) additional info (variable # of RRs)

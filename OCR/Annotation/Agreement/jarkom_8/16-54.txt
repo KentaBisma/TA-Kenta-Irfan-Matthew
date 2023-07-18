@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+HYP: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+IRFAN VS RAFI
+REF: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+HYP: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+KENTA VS RAFI
+REF: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+HYP: Content distribution networks (CDNs) CDN: stores copies of content (e.g. MADMEN) at CDN nodes subscriber requests content, service provider returns manifest
+                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+SHEET -> 16-54.txt;0;0;0;21;21;0;0;0;21;21;0;0;0;21;21
+

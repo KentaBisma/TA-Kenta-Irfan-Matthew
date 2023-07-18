@@ -1,0 +1,3 @@
+DNS: services, structure
+DNS services:
+hostname-to-IP-address translation

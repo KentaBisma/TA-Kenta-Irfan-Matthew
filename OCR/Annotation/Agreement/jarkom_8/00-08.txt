@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia All material taken from “Computer Networking: A Top-Down Approach” copyright 1996-2020, J.F Kurose and K.W. Ross, All Rights Reserved
+HYP: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia *** ******** ***** **** ********* *********** * ******** ********* ********* ********** *** ****** *** **** ***** *** ****** ********
+                                                                                                                                         D        D     D    D         D           D D        D         D         D          D   D      D   D    D     D   D      D        D
+Substitutions: 0
+Insertions   : 0
+Deletions    : 19
+Hits         : 17 of 36
+
+
+IRFAN VS RAFI
+REF: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia All material taken from “Computer Networking: A Top-Down Approach” copyright 1996-2020, J.F Kurose and K.W. Ross, All Rights Reserved
+HYP: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia *** ******** ***** **** ********* *********** * ******** ********* ********* ********** *** ****** *** **** ***** *** ****** ********
+                                                                                                                                         D        D     D    D         D           D D        D         D         D          D   D      D   D    D     D   D      D        D
+Substitutions: 0
+Insertions   : 0
+Deletions    : 19
+Hits         : 17 of 36
+
+
+KENTA VS RAFI
+REF: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia
+HYP: Application Layer (6/7) Video Streaming and CDN CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia
+                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+SHEET -> 00-08.txt;0;0;19;17;36;0;0;19;17;36;0;0;0;17;17
+

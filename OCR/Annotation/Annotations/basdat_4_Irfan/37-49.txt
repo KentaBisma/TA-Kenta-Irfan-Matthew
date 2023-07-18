@@ -1,0 +1,5 @@
+The UPDATE Command
+Modify attribute values of one or more selected tuples
+Additional SET clause in the UPDATE command
+Specifies attributes to be modified and new values
+U5: UPDATE PROJECT SET Plocation = ‘Bellaire’, Dnum = 5 WHERE Pnumber=10;

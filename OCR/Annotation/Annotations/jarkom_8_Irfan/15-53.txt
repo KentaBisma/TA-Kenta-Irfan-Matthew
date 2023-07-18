@@ -1,0 +1,7 @@
+Content distribution networks (CDNs)
+challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+option 1: single, large “mega-server”
+single point of failure
+point of network congestion
+long (and possibly congested) path to distant clients
+….quite simply: this solution doesn’t scale

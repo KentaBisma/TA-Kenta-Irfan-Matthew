@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+HYP: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+
+IRFAN VS RAFI
+REF: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+HYP: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+
+KENTA VS RAFI
+REF: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+HYP: Content distribution networks (CDNs) Internet host-host communication as a service OTT challenges: coping with a congested Internet from the “edge” what content to place in which CDN node? from which CDN node to retrieve content? At which rate?
+                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+SHEET -> 17-48.txt;0;0;0;38;38;0;0;0;38;38;0;0;0;38;38
+

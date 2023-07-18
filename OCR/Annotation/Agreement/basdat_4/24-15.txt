@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+HYP: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+
+IRFAN VS RAFI
+REF: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+HYP: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+
+KENTA VS RAFI
+REF: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+HYP: Check Constraints Most generic constraint type Specify that the value in a certain column must satisfy a particular condition Example: CREATE TABLE PRODUCTS ( Product_no INT, Name VARCHAR(10), Price INT CHECK (price > 0) ); Constraint may be specified (optional): Price INT CONSTRAINT POS_PRICE CHECK (price > 0)); Clarifies error messages and allow changes to the constraint Can be dropped or replaced with another constraint
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+SHEET -> 24-15.txt;0;0;0;65;65;0;0;0;65;65;0;0;0;65;65
+

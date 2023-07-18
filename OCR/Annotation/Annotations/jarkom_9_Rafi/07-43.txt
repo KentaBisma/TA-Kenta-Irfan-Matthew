@@ -1,0 +1,3 @@
+Client/server socket interaction: TCP
+server (running on hostid)
+client

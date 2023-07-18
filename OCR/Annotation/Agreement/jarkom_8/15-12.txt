@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+IRFAN VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+KENTA VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+SHEET -> 15-12.txt;0;0;0;21;21;0;0;0;21;21;0;0;0;21;21
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+HYP: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+
+IRFAN VS RAFI
+REF: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+HYP: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+
+KENTA VS RAFI
+REF: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+HYP: Local DNS name servers when host makes DNS query, it is sent to its local DNS server
+                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+SHEET -> 10-08.txt;0;0;0;17;17;0;0;0;17;17;0;0;0;17;17
+

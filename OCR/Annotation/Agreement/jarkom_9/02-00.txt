@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming with UDP UDP: no “connection” between client and server:
+HYP: Socket programming with UDP UDP: no “connection” between client and server:
+                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 11 of 11
+
+
+IRFAN VS RAFI
+REF: Socket programming with UDP UDP: no “connection” between client and server:
+HYP: Socket programming with UDP UDP: no “connection” between client and server:
+                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 11 of 11
+
+
+KENTA VS RAFI
+REF: Socket programming with UDP UDP: no “connection” between client and server:
+HYP: Socket programming with UDP UDP: no “connection” between client and server:
+                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 11 of 11
+
+SHEET -> 02-00.txt;0;0;0;11;11;0;0;0;11;11;0;0;0;11;11
+

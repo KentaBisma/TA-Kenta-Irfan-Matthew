@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 24 of 24
+
+
+IRFAN VS RAFI
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 24 of 24
+
+
+KENTA VS RAFI
+REF: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+HYP: Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact
+                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 24 of 24
+
+SHEET -> 07-27.txt;0;0;0;24;24;0;0;0;24;24;0;0;0;24;24
+

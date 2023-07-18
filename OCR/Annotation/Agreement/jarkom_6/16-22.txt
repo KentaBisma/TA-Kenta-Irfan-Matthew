@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+HYP: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 46 of 46
+
+
+IRFAN VS RAFI
+REF: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+HYP: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 46 of 46
+
+
+KENTA VS RAFI
+REF: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+HYP: Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 46 of 46
+
+SHEET -> 16-22.txt;0;0;0;46;46;0;0;0;46;46;0;0;0;46;46
+

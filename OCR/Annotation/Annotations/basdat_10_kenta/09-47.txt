@@ -1,0 +1,27 @@
+Recursive Closure
+(Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’.
+RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=SsnRESULT1)
+To get both set of employees supervised at level 1 and 2 by James Borg:
+RESULT RESULT2 RESULT1
+RESULT
+Ssn
+123456789
+999887777
+666884444
+453453453
+987987987
+333445555
+987654321
+RESULT2
+Ssn
+123456789
+999887777
+666884444
+453453453
+987987987
+(Supervised by Borg's subordinates)
+RESULT1
+Ssn
+333445555
+987654321
+(Supervised bu Borg)

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1      T1.P = T2.A T2 b. T1 ********* ** T1.Q  =      T2.B T2 c. T1 ********* T1.P  = T2.A T2 d. T1       T1.Q   =       T2.B T2    e. T1 * * * ** * * ** * * ** * * ***** T2 * * f. T1 (T1.P = T2.A AND T1.R  = T2.C) T2
+HYP: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1 T1.P=T2.A * **** T2 b. T1 T1.Q=T2.B T2   c. T1 T1.P=T2.A T2 d. T1 T1.Q=T2.B   T2 e.   T1 T2 f. T1 (T1.P=T2.A AND T1.R=T2.C) T2 TABLE T1 P Q R 10 a 5 15 b 8 25 a 6 TABLE T2 A B  C 10     b 6   25   c    3 10     b  5
+                                                                                                                                                                                                                                                        S D    D                  I  I    S  S         S     S            I    S  S    S     S             S   S          S        S    I I I  I I I  I I I  I I I     I    I I  S  S     S S    S   S    S  S     S  S
+Substitutions: 23
+Insertions   : 18
+Deletions    : 2
+Hits         : 48 of 89
+
+
+IRFAN VS RAFI
+REF: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1 T1.P = T2.A T2 b. T1 T1.Q = T2.B T2 c. T1 T1.P = T2.A T2 d. T1 T1.Q = T2.B T2 e. T1 T2 f. T1 (T1.P = T2.A AND T1.R = T2.C) T2
+HYP: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1 T1.P = T2.A T2 b. T1 T1.Q = T2.B T2 c. T1 T1.P = T2.A T2 d. T1 T1.Q = T2.B T2 e. T1 T2 f. T1 (T1.P = T2.A AND T1.R = T2.C) T2
+                                                                                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 73 of 73
+
+
+KENTA VS RAFI
+REF: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1 **** * T1.P=T2.A T2 b. T1 **** * T1.Q=T2.B T2 c. T1 **** * T1.P=T2.A T2 d. T1 **** * T1.Q=T2.B T2 e. T1 T2 f. T1 (T1.P=T2.A AND T1.R=T2.C)  T2 TABLE T1     P Q R 10 a 5 15 b 8 25 a 6 TABLE T2 A B C 10 b 6 25 c 3 10 b 5
+HYP: Exercise 1. For each department, retrieve the department name and the average salary of all employees working in that department. 2. Retrieve the average salary of all female employees. 3. Show the result of following operation: a. T1 T1.P =      T2.A T2 b. T1 T1.Q =      T2.B T2 c. T1 T1.P =      T2.A T2 d. T1 T1.Q =      T2.B T2 e. T1 T2 f. T1      (T1.P   =       T2.A AND  T1.R  = T2.C) * * ** * * ** * * ** * * ***** T2 * * * ** * * ** * * ** * *
+                                                                                                                                                                                                                                                   I I         S             I I         S             I I         S             I I         S                            S   S          S   S     S  S     S D D  D D D  D D D  D D D     D    D D D  D D D  D D D  D D D
+Substitutions: 11
+Insertions   : 8
+Deletions    : 24
+Hits         : 54 of 89
+
+SHEET -> 14-06.txt;23;18;2;48;89;0;0;0;73;73;11;8;24;54;89
+

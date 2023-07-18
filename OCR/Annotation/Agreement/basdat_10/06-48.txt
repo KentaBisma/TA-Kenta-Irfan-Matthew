@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary.       R(No_of_employees,Average_sal) (COUNT Ssn,AVERAGE Salary(Employee)) R ********* ************** * *****
+HYP: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary. R(No_of_employees,Average_sal)(COUNT ****** Ssn,AVERAGE Salary(Employee)) R Count_ssn Average_salary 8 35125
+                                                                                                                                                                                                                                        S      D                                         I              I I     I
+Substitutions: 1
+Insertions   : 4
+Deletions    : 1
+Hits         : 33 of 38
+
+
+IRFAN VS RAFI
+REF: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary.  R(No_of_employees,Average_sal) (COUNT Ssn,AVERAGE Salary(Employee)) R
+HYP: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary. R(No_of_employees,Average_sal)(  COUNT Ssn,AVERAGE  Salary(Emploee)) *
+                                                                                                                                                                                                                                   S      S                             S D
+Substitutions: 3
+Insertions   : 0
+Deletions    : 1
+Hits         : 31 of 35
+
+
+KENTA VS RAFI
+REF: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary. ******************************* R(No_of_employees,Average_sal)(COUNT Ssn,AVERAGE Salary(Employee)) R Count_ssn Average_salary 8 35125
+HYP: Aggregate & Grouping If no grouping attributes are specified, then the functions are applied to all tuples in the relation. Example: Retrieve the number of employees and their average salary. R(No_of_employees,Average_sal)(                                COUNT Ssn,AVERAGE  Salary(Emploee)) * ********* ************** * *****
+                                                                                                                                                                                                                                   I                                    S                             S D         D              D D     D
+Substitutions: 2
+Insertions   : 1
+Deletions    : 5
+Hits         : 31 of 38
+
+SHEET -> 06-48.txt;1;4;1;33;38;3;0;1;31;35;2;1;5;31;38
+

@@ -1,0 +1,13 @@
+INSERT
+Another variation of INSERT allows insertion of multiple tuples resulting from a query into a relation
+U3A: CREATE TABLE DEPTS_INFO
+(DEPT_NAME VARCHAR(10),
+NO_OF_EMPS INTEGER,
+TOTAL_SAL INTEGER);
+U3B: INSERT INTO DEPTS_INFO (DEPT_NAME,
+NO_OF_EMPS, TOTAL_SAL)
+SELECT DNAME, COUNT (*), SUM (SALARY)
+FROM DEPARTMENT, EMPLOYEE
+WHERE DNUMBER = DNO
+GROUP BY DNAME ;
+(SQL queries discussed in the next slides ...)

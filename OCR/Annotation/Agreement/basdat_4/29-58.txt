@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+HYP: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 54 of 54
+
+
+IRFAN VS RAFI
+REF: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+HYP: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 54 of 54
+
+
+KENTA VS RAFI
+REF: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+HYP: Default Values An attribute can be assigned with default value The value will be created when a new row inserted and no value is specified for that attribute If no default value is declared explicitly, the default value is NULL CREATE TABLE PRODUCTS ( Product_no INT, Name VARCAR(10) NOT NULL, Price INT DEFAULT 9.99);
+                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 54 of 54
+
+SHEET -> 29-58.txt;0;0;0;54;54;0;0;0;54;54;0;0;0;54;54
+

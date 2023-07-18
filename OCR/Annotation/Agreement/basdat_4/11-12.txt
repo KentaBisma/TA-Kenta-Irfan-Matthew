@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Data Types in SQL        Bit string data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+HYP: Data Types in SQL Bit-string ****** data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+                                S      D                                                                                                                                                                                                         
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 38 of 40
+
+
+IRFAN VS RAFI
+REF: Data Types in SQL        Bit string data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+HYP: Data Types in SQL Bit-string ****** data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+                                S      D                                                                                                                                                                                                         
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 38 of 40
+
+
+KENTA VS RAFI
+REF: Data Types in SQL Bit-string data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+HYP: Data Types in SQL Bit-string data types Fixed length: BIT(n) Varying length: BIT VARYING(n) Boolean data type Values of TRUE or FALSE or NULL DATE data type Ten positions Components are YEAR, MONTH, and DAY in the form YYYY-MM-DD
+                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 39 of 39
+
+SHEET -> 11-12.txt;1;0;1;38;40;1;0;1;38;40;0;0;0;39;39
+

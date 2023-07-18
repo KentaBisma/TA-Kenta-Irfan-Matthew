@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=SsnRESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT RESULT2 RESULT1 ****** *** ********* ********* ********* ********* ********* ********* ********* ******* *** ********* ********* ********* ********* ********* *********** ** ****** ************* ******* *** ********* ********* *********** ** *****
+HYP: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=SsnRESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT RESULT2 RESULT1 RESULT Ssn 123456789 999887777 666884444 453453453 987987987 333445555 987654321 RESULT2 Ssn 123456789 999887777 666884444 453453453 987987987 (Supervised by Borg's subordinates) RESULT1 Ssn 333445555 987654321 (Supervised bu Borg)
+                                                                                                                                                                                                                                                                          I   I         I         I         I         I         I         I         I       I   I         I         I         I         I         I           I  I      I             I       I   I         I         I           I  I     I
+Substitutions: 0
+Insertions   : 27
+Deletions    : 0
+Hits         : 38 of 65
+
+
+IRFAN VS RAFI
+REF: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION ******** Ssn2=SsnRESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT ******* RESULT2 RESULT1
+HYP: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=Ssn         RESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT RESULT1 RESULT2 *******
+                                                                                                                                                            I                S                                                                                      I               D
+Substitutions: 1
+Insertions   : 2
+Deletions    : 1
+Hits         : 36 of 39
+
+
+KENTA VS RAFI
+REF: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION ******** Ssn2=SsnRESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT RESULT2 RESULT1 RESULT Ssn 123456789 999887777 666884444 453453453 987987987 333445555 987654321 RESULT2 Ssn 123456789 999887777 666884444 453453453 987987987 (Supervised by Borg's subordinates) RESULT1 Ssn 333445555 987654321 (Supervised bu Borg)
+HYP: Recursive Closure (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. RESULT2(Ssn) Ssn1(SUPERVISION Ssn2=Ssn         RESULT1) To get both set of employees supervised at level 1 and 2 by James Borg: RESULT ******* RESULT1 ****** *** ********* ********* ********* ********* ********* ********* ********* RESULT2 *** ********* ********* ********* ********* ********* *********** ** ****** ************* ******* *** ********* ********* *********** ** *****
+                                                                                                                                                            I                S                                                                                      D              D   D         D         D         D         D         D         D         D           D         D         D         D         D         D           D  D      D             D       D   D         D         D           D  D     D
+Substitutions: 1
+Insertions   : 1
+Deletions    : 27
+Hits         : 37 of 65
+
+SHEET -> 09-47.txt;0;27;0;38;65;1;2;1;36;39;1;1;27;37;65
+

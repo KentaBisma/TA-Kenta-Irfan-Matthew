@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+HYP: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 40
+
+
+IRFAN VS RAFI
+REF: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+HYP: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 40
+
+
+KENTA VS RAFI
+REF: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+HYP: RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file
+                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 40
+
+SHEET -> 12-49.txt;0;0;0;40;40;0;0;0;40;40;0;0;0;40;40
+

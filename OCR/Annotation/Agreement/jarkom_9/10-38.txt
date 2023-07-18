@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() ****************************************** ********* connectionSocket.send(capitalizedSentence.encode()) close connection to this client (but not welcoming socket) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence. encode())                            connectionSocket.close() close connection to this client (but not welcoming socket) ************************
+                                                                                                                                                                                                                                                                                                                                                                                                                             I         I                                                   S                                                                                   D
+Substitutions: 1
+Insertions   : 2
+Deletions    : 1
+Hits         : 46 of 49
+
+
+IRFAN VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) close connection to this client (but not welcoming socket) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) close connection to this client (but not welcoming socket) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+
+KENTA VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper()          connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() close connection to this client (but not welcoming socket) ************************
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) ********* ************************ close connection to this client (but not welcoming socket) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                      S         D                        D                                                                                   I
+Substitutions: 1
+Insertions   : 1
+Deletions    : 2
+Hits         : 46 of 49
+
+SHEET -> 10-38.txt;1;2;1;46;49;0;0;0;48;48;1;1;2;46;49
+

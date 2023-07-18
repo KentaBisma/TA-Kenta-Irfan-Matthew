@@ -1,0 +1,5 @@
+Multimedia: video
+video: sequence of images displayed at constant rate
+e.g., 24 images/sec
+digital image: array of pixels
+each pixel represented by bits

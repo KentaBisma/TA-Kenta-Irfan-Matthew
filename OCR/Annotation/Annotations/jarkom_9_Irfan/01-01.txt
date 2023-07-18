@@ -1,0 +1,4 @@
+Socket programming
+Two socket types for two transport services:
+UDP: unreliable datagram
+TCP: reliable, byte stream-oriented

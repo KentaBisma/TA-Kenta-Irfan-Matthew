@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 14 of 14
+
+
+IRFAN VS RAFI
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 14 of 14
+
+
+KENTA VS RAFI
+REF: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+HYP: DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu
+                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 14 of 14
+
+SHEET -> 13-10.txt;0;0;0;14;14;0;0;0;14;14;0;0;0;14;14
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Aggregate & Grouping Notation: <grouping          attributes> <function list>(R) Example: Retrieve each department number, the number of employees in the department, and their average salary.  R(Dno,No_of_employees,Average_sal)     (Dno    COUNT Ssn,AVERAGE Salary)(Employ Renaming relation         and    attributes Group by Dno * *** *************************** * * ***** * * ***** * * ***** SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_sal FROM EMPLOYEE GROUP BY Dno
+HYP: Aggregate & Grouping Notation: <grouping attributes><function     list>      (R) Example: Retrieve each department number, the number of employees in the department, and their average salary. R(Dno,No_of_employees,Average_sal)( Renaming relation         and     attributes      Dno    COUNT Ssn,AVERAGE Salary(Employ Group by Dno R Dno No_of_employees_Average_sal 5 4 33250 4 3 31000 1 1 55000 SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_Sal FROM EMPLOYEE GROUP BY Dno
+                                                                 S         S        S                                                                                                                                                  S        S        S           S              S        S        S           S             S              I   I                           I I I     I I I     I I I     I                                                                     S                           
+Substitutions: 13
+Insertions   : 12
+Deletions    : 0
+Hits         : 36 of 61
+
+
+IRFAN VS RAFI
+REF: Aggregate & Grouping Notation: <grouping attributes> <function ***** list>(R) Example: Retrieve each department number, the number of employees in the department, and their average salary. R(Dno,No_of_employees,Average_sal) (Dno COUNT Ssn,AVERAGE Salary)(Employ Renaming relation and attributes Group by Dno SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_sal FROM EMPLOYEE GROUP BY Dno
+HYP: Aggregate & Grouping Notation: <grouping attributes> <function list>      (R) Example: Retrieve each department number, the number of employees in the department, and their average salary. R(Dno,No_of_employees,Average_sal) (Dno COUNT Ssn,AVERAGE Salary)(Employ Renaming relation and attributes Group by Dno SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_sal FROM EMPLOYEE GROUP BY Dno
+                                                                        I        S                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 1
+Insertions   : 1
+Deletions    : 0
+Hits         : 48 of 50
+
+
+KENTA VS RAFI
+REF: Aggregate & Grouping Notation: <grouping *********** attributes><function list> (R) Example: Retrieve each department number, the number of employees in the department, and their average salary. ********************************** **** ***** *********** R(Dno,No_of_employees,Average_sal)( Renaming relation and attributes Dno COUNT Ssn,AVERAGE Salary(Employ Group by Dno R Dno No_of_employees_Average_sal 5 4 33250 4 3 31000 1 1 55000 SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_Sal FROM EMPLOYEE GROUP BY Dno
+HYP: Aggregate & Grouping Notation: <grouping attributes>            <function list> (R) Example: Retrieve each department number, the number of employees in the department, and their average salary. R(Dno,No_of_employees,Average_sal) (Dno COUNT Ssn,AVERAGE                      Salary)(Employ Renaming relation and attributes *** ***** *********** ************* Group by Dno * *** *************************** * * ***** * * ***** * * ***** SELECT Dno, COUNT(SSN) AS No_of_employees, AVG(Salary) AS Average_sal FROM EMPLOYEE GROUP BY Dno
+                                                        I                    S                                                                                                                                                           I    I     I           I                                   S                                    D     D           D             D              D   D                           D D D     D D D     D D D     D                                                                     S                           
+Substitutions: 3
+Insertions   : 5
+Deletions    : 16
+Hits         : 42 of 61
+
+SHEET -> 04-44.txt;13;12;0;36;61;1;1;0;48;50;3;5;16;42;61
+

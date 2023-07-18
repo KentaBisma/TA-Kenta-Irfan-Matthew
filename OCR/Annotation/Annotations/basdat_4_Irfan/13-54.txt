@@ -1,0 +1,6 @@
+Create a TABLE
+Specify a new relation
+Provide name, attributes, and initial constraints (data types)
+A constraint NOT NULL may be specified on an attribute
+CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR, …);
+We may specify primary key and foreign keys (more on next slides..)

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+HYP: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+                                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 25 of 25
+
+
+IRFAN VS RAFI
+REF: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+HYP: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+                                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 25 of 25
+
+
+KENTA VS RAFI
+REF: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+HYP: These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015: Chapter 6 SQL: Basic SQL Additional materials from: http://www.postgresql.org/docs/current/static/index.html
+                                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 25 of 25
+
+SHEET -> 00-46.txt;0;0;0;25;25;0;0;0;25;25;0;0;0;25;25
+

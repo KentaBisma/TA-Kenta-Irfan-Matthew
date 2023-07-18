@@ -1,0 +1,6 @@
+Client/server socket interaction: UDP
+server (running on serverIP)
+client
+create socket, port= x:
+serverSocket =
+socket(AF_INET,SOCK_DGRAM)

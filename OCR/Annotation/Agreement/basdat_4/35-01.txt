@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: INSERT Note: The DEPTS_INFO table may not be up-to-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+HYP: INSERT Note: The DEPTS_INFO table may not be  upto-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+                                                           S                                                                                                                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 41
+
+
+IRFAN VS RAFI
+REF: INSERT Note: The DEPTS_INFO table may not be up-to-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+HYP: INSERT Note: The DEPTS_INFO table may not be up-to-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+
+KENTA VS RAFI
+REF: INSERT Note: The DEPTS_INFO table may not be  upto-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+HYP: INSERT Note: The DEPTS_INFO table may not be up-to-date if we change the tuples in either the DEPARTMENT or the EMPLOYEE relations after issuing U3B. We have to create a view (see later) to keep such a table up to date.
+                                                           S                                                                                                                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 41
+
+SHEET -> 35-01.txt;1;0;0;40;41;0;0;0;41;41;1;0;0;40;41
+

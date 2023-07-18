@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+
+IRFAN VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+
+KENTA VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+SHEET -> 15-56.txt;0;0;0;34;34;0;0;0;34;34;0;0;0;34;34
+

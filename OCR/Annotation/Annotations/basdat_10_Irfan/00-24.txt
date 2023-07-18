@@ -1,0 +1,2 @@
+References
+Elmasri 7th edition: Chapter 8

@@ -1,0 +1,1 @@
+Getting your info into the DNS example: new startup “Network Utopia” register name networkuptopia.com at DNS registrar (e.g., Network Solutions) provide names, IP addresses of authoritative name server (primary and secondary) registrar inserts NS, A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)

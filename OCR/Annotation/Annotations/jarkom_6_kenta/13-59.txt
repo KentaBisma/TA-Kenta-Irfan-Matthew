@@ -1,0 +1,2 @@
+Caching DNS Information
+once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query

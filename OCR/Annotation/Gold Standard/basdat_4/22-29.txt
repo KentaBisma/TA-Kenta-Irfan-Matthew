@@ -1,0 +1,1 @@
+Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated

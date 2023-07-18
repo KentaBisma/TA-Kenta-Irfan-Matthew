@@ -1,0 +1,10 @@
+UPDATE
+Example: Give all employees in the 'Research' department a 10% raise in salary.
+U6: UPDATE EMPLOYEE
+SET SALARY = SALARY *1.1
+WHERE DNO IN (SELECT DNUMBER
+FROM DEPARTMENT
+WHERE DNAME='Research')
+In this request, the modified SALARY value depends on the original SALARY value in each tuple
+The reference to the SALARY attribute on the right of = refers to the old SALARY value before modification
+The reference to the SALARY attribute on the left of = refers to the new SALARY value after modification

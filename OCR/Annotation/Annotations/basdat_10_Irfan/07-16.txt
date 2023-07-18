@@ -1,0 +1,9 @@
+Recursive Closure
+Applied to a recursive relationship between tuples of the same type.
+Example:
+Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’.
+We utilize a looping mechanism
+(Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’.
+(Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’.
+….
+(Level n) …

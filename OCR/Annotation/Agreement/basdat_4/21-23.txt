@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+HYP: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+
+IRFAN VS RAFI
+REF: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+HYP: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+
+KENTA VS RAFI
+REF: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+HYP: Create TABLE: Foreign keys Some foreign keys may cause errors Circular references Foreign key which refers to the table itself Super_ssn refers to the Ssn They refer to a table that has not been created Added later using ALTER TABLE statement
+                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+SHEET -> 21-23.txt;0;0;0;41;41;0;0;0;41;41;0;0;0;41;41
+

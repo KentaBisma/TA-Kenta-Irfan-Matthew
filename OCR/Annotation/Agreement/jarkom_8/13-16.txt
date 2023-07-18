@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP server: divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different files
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP server: divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different files
+                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 29 of 29
+
+
+IRFAN VS RAFI
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over        HTTP server: divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different  files
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTPserver: ******* divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different files\
+                                                                           S       D                                                                                                                                          S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 1
+Hits         : 26 of 29
+
+
+KENTA VS RAFI
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over        HTTP server: divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different  files
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTPserver: ******* divides video file into multiple chunks each chunk encoded at multiple different rates different rate encodings stored in different files\
+                                                                           S       D                                                                                                                                          S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 1
+Hits         : 26 of 29
+
+SHEET -> 13-16.txt;0;0;0;29;29;2;0;1;26;29;2;0;1;26;29
+

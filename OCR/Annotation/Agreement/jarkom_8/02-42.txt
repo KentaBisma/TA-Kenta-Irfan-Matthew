@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec
+                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 13 of 13
+
+
+IRFAN VS RAFI
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec ***** * ***** ***
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec frame i frame i+1
+                                                                                                    I I     I   I
+Substitutions: 0
+Insertions   : 4
+Deletions    : 0
+Hits         : 13 of 17
+
+
+KENTA VS RAFI
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec ***** * ***** ***
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec frame i frame i+1
+                                                                                                    I I     I   I
+Substitutions: 0
+Insertions   : 4
+Deletions    : 0
+Hits         : 13 of 17
+
+SHEET -> 02-42.txt;0;0;0;13;13;0;4;0;13;17;0;4;0;13;17
+

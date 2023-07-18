@@ -1,0 +1,1 @@
+DNS name resolution: iterated query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Iterated query: contacted server replies with name of server to contact “I don’t know this name, but ask this server”

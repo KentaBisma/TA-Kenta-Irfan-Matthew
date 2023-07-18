@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+
+IRFAN VS RAFI
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+
+KENTA VS RAFI
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 34 of 34
+
+SHEET -> 11-48.txt;0;0;0;34;34;0;0;0;34;34;0;0;0;34;34
+

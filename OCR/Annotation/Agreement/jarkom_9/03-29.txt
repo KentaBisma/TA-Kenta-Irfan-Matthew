@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM) Create datagram with serverIP address And port=x; send datagram via clientSocket ****** ******* ***** ** ************ * **************************
+HYP: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) ****** ******* ***** ** ************ * ************************** Create datagram with serverIP address And port=x; send datagram via clientSocket create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM)
+                                                                                                                                             D       D     D  D            D D                          D                                                                                       I       I     I  I            I I                          I
+Substitutions: 0
+Insertions   : 7
+Deletions    : 7
+Hits         : 25 of 32
+
+
+IRFAN VS RAFI
+REF: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM) Create datagram with serverIP address And port=x; send datagram via clientSocket
+HYP: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM) Create datagram with serverIP address And port=x; send datagram via clientSocket
+                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+KENTA VS RAFI
+REF: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) ****** ******* ***** ** ************ * ************************** Create datagram with serverIP address And port=x; send datagram via clientSocket create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM)
+HYP: Client/server socket interaction: UDP server (running on serverIP) client create socket: clientSocket = socket(AF_INET,SOCK_DGRAM) create socket, port= x: serverSocket = socket(AF_INET,SOCK_DGRAM) Create datagram with serverIP address And port=x; send datagram via clientSocket ****** ******* ***** ** ************ * **************************
+                                                                                                                                             I       I     I  I            I I                          I                                                                                       D       D     D  D            D D                          D
+Substitutions: 0
+Insertions   : 7
+Deletions    : 7
+Hits         : 25 of 32
+
+SHEET -> 03-29.txt;0;7;7;25;32;0;0;0;32;32;0;7;7;25;32
+

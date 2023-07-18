@@ -1,0 +1,24 @@
+CREATE TABLE EMPLOYEE
+( Fname VARCHAR(15) NOT NULL,
+Minit CHAR,
+Lname VARCHAR(15) NOT NULL,
+Ssn CHAR(9) NOT NULL,
+Bdate DATE,
+Address VARCHAR(30),
+Sex CHAR,
+Salary DECIMAL(10,2),
+Super_ssn CHAR(9),
+Dno INT NOT NULL,
+PRIMARY KEY (Ssn),
+FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn),
+FOREIGN KEY (Dno) REFERENCES DEPARTMENT(Dnumber), );
+CREATE TABLE DEPARTMENT
+( Dname VARCHAR(15) NOT NULL,
+Dnumber INT NOT NULL,
+Mgr_ssn CHAR(9) NOT NULL,
+Mgr_start_date DATE,
+PRIMARY KEY (Dnumber),
+UNIQUE (Dname),
+FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) );
+Figure 4.1
+SQL CREATE TABLE data definition state-ments for defining COMPANY schema from Figure 3.7.

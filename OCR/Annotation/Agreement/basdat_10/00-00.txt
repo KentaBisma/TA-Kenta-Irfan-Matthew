@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Slide 15 Relational Algebra Part 2 CSF2600700 - BASIS DATA SEMESTER GENAP 2019/2020
+HYP: Slide 15 Relational Algebra Part 2 CSF2600700 - BASIS DATA SEMESTER GENAP 2019/2020
+                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 13 of 13
+
+
+IRFAN VS RAFI
+REF: Slide 15 Relational Algebra Part 2 CSF2600700 - BASIS DATA SEMESTER GENAP 2019/2020
+HYP: Slide 13 Relational Algebra **** * CSF2600700 - BASIS DATA SEMESTER GENAP 2018/2019
+            S                       D D                                                S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 2
+Hits         : 9 of 13
+
+
+KENTA VS RAFI
+REF: Slide 15 Relational Algebra Part 2 CSF2600700 - BASIS DATA SEMESTER GENAP 2019/2020
+HYP: Slide 13 Relational Algebra **** * CSF2600700 - BASIS DATA SEMESTER GENAP 2018/2019
+            S                       D D                                                S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 2
+Hits         : 9 of 13
+
+SHEET -> 00-00.txt;0;0;0;13;13;2;0;2;9;13;2;0;2;9;13
+

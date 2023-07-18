@@ -1,0 +1,14 @@
+Client/server socket interaction: UDP
+server (running on serverIP)
+client
+create socket:
+clientSocket =
+socket(AF_INET,SOCK_DGRAM)
+Create datagram with serverIP address
+And port=x; send datagram via
+clientSocket
+create socket, port= x:
+serverSocket =
+socket(AF_INET,SOCK_DGRAM)
+read datagram from
+serverSocket

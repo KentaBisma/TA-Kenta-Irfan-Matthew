@@ -1,0 +1,7 @@
+Application layer: overview
+P2P applications
+Principles of network applications
+Video streaming and content distribution networks
+Web and HTTP
+Socket programming with UDP and TCP
+The Domain Name System

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root
+                                                                    
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 9 of 9
+
+
+IRFAN VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root
+                                                                    
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 9 of 9
+
+
+KENTA VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root
+                                                                    
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 9 of 9
+
+SHEET -> 06-06.txt;0;0;0;9;9;0;0;0;9;9;0;0;0;9;9
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming stored video simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+HYP: Streaming stored video simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+                                                                                                                                                                                                            
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 26 of 26
+
+
+IRFAN VS RAFI
+REF: Streaming stored video ******** ***** ****** ******* simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+HYP: Streaming stored video Internet video server (stored video)    client Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+                                   I     I      I       I      S         S                                                                                                                                                                
+Substitutions: 2
+Insertions   : 4
+Deletions    : 0
+Hits         : 24 of 30
+
+
+KENTA VS RAFI
+REF: Streaming stored video ******** ***** ****** ******* simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+HYP: Streaming stored video Internet video server (stored video)    client Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)
+                                   I     I      I       I      S         S                                                                                                                                                                
+Substitutions: 2
+Insertions   : 4
+Deletions    : 0
+Hits         : 24 of 30
+
+SHEET -> 09-18.txt;0;0;0;26;26;2;4;0;24;30;2;4;0;24;30
+

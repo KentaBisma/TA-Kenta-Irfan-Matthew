@@ -1,0 +1,9 @@
+Content distribution networks (CDNs)
+challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)
+enter deep: push CDN servers deep into many access networks 
+close to users
+Akamai: 240,000 servers deployed 
+in > 120 countries (2015)
+bring home: smaller number (10’s) of larger clusters in POPs near access nets
+used by Limelight

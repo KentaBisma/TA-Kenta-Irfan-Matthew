@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: 1. client reads a line of characters (data) from its keyboard and sends data to server 2. server receives the data and converts characters to uppercase 3. server sends modified data to client 4. client receives modified data and displays line on its screen
+HYP: Socket programming *** ****** ***** *** *** ********* ********* UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: ** client reads a line of characters (data) from its keyboard and sends data to server ** server receives the data and converts characters to uppercase ** server sends modified data to client ** client receives modified data and displays line on its screen
+                          D      D     D   D   D         D         D                                                                                    D                                                                                      D                                                                D                                       D                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 11
+Hits         : 51 of 62
+
+
+IRFAN VS RAFI
+REF: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: 1. client reads a line of characters (data) from its keyboard and sends data to server 2. server receives the data and converts characters to uppercase 3. server sends modified data to client 4. client receives modified data and displays line on its screen
+HYP: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: ** client reads a line of characters (data) from its keyboard and sends data to server ** server receives the data and converts characters to uppercase ** server sends modified data to client ** client receives modified data and displays line on its screen
+                                                                                                                                                        D                                                                                      D                                                                D                                       D                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 4
+Hits         : 58 of 62
+
+
+KENTA VS RAFI
+REF: Socket programming *** ****** ***** *** *** ********* ********* UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: client reads a line of characters (data) from its keyboard and sends data to server server receives the data and converts characters to uppercase server sends modified data to client client receives modified data and displays line on its screen
+HYP: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented Application Example: client reads a line of characters (data) from its keyboard and sends data to server server receives the data and converts characters to uppercase server sends modified data to client client receives modified data and displays line on its screen
+                          I      I     I   I   I         I         I                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 7
+Deletions    : 0
+Hits         : 51 of 58
+
+SHEET -> 01-23.txt;0;0;11;51;62;0;0;4;58;62;0;7;0;51;58
+

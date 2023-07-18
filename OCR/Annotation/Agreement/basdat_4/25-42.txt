@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+HYP: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+IRFAN VS RAFI
+REF: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+HYP: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+
+KENTA VS RAFI
+REF: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+HYP: NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 32 of 32
+
+SHEET -> 25-42.txt;0;0;0;32;32;0;0;0;32;32;0;0;0;32;32
+

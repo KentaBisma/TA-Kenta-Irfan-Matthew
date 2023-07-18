@@ -1,0 +1,7 @@
+DNS: Domain Name System
+people: many identifiers:
+SSN, name, passport #
+Internet hosts, routers:
+IP address (32 bit) - used for addressing datagrams
+“name”, e.g., cs.umass.edu - used by humans
+Q: how to map between IP address and name, and vice versa ?

@@ -1,0 +1,1 @@
+NOT NULL constraint Constraint NOT NULL may be specified for a particular attribute Implicitly specified for primary keys CREATE TABLE PRODUCTS ( Product_no INT NOT NULL, Name VARCAR(10) NOT NULL, Price INT);

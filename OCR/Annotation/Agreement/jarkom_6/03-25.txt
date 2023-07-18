@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 15 of 15
+
+
+IRFAN VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 15 of 15
+
+
+KENTA VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 15 of 15
+
+SHEET -> 03-25.txt;0;0;0;15;15;0;0;0;15;15;0;0;0;15;15
+

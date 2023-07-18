@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Outer JOIN Notation: R1 R2 (left) or R1 R2 (Right) or R1 R2 (full) Example: Left Outer JOIN TEMP (EMPLOYEE Ssn=Mgr_ssnDEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP) ****** ***** ***** ***** ***** **** * ***** **** ******** * **** ******** ****** * ****** **** ******** * ******* ************** ****** * ******* **** ***** * ******* **** ***** * ****** **** ***** * **** ************
+HYP: Outer JOIN Notation: R1 R2 (left) or R1 R2 (right) or R1 R2 (full) Example: Left Outer JOIN TEMP  EMPLOYEE Ssn=Mgr_ssnDEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP) RESULT Fname Minit Lname Dname John B Smith NULL Franklin T Wong Research Alicia J Zelaya Null Jennifer S Wallace Administration Ramesh K Narayan NULL Joyce A English NULL Ahmad V Jabbar NULL James E Borg Headquarters
+                                                      S                                                       S                                                                     I     I     I     I     I    I I     I    I        I I    I        I      I I      I    I        I I       I              I      I I       I    I     I I       I    I     I I      I    I     I I    I            I
+Substitutions: 2
+Insertions   : 37
+Deletions    : 0
+Hits         : 24 of 63
+
+
+IRFAN VS RAFI
+REF: Outer JOIN Notation: R1 R2 (left) or R1 R2 (Right) or R1 R2 (full) Example: Left Outer JOIN TEMP (EMPLOYEE *********** Ssn=Mgr_ssnDEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP)
+HYP: Outer JOIN Notation: R1 R2 (left) or R1 R2 (right) or R1 R2 (full) Example: Left Outer JOIN TEMP (EMPLOYEE Ssn=Mgr_ssn            DEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP)
+                                                      S                                                                   I                      S                                        
+Substitutions: 2
+Insertions   : 1
+Deletions    : 0
+Hits         : 24 of 27
+
+
+KENTA VS RAFI
+REF: Outer JOIN Notation: R1 R2 (left) or R1 R2 (right) or R1 R2 (full) Example: Left Outer JOIN TEMP *********    EMPLOYEE Ssn=Mgr_ssnDEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP) RESULT Fname Minit Lname Dname John B Smith NULL Franklin T Wong Research Alicia J Zelaya Null Jennifer S Wallace Administration Ramesh K Narayan NULL Joyce A English NULL Ahmad V Jabbar NULL James E Borg Headquarters
+HYP: Outer JOIN Notation: R1 R2 (left) or R1 R2 (right) or R1 R2 (full) Example: Left Outer JOIN TEMP (EMPLOYEE Ssn=Mgr_ssn            DEPARTMENT) RESULT Fname, Minit, Lname, Dname(TEMP) ****** ***** ***** ***** ***** **** * ***** **** ******** * **** ******** ****** * ****** **** ******** * ******* ************** ****** * ******* **** ***** * ******* **** ***** * ****** **** ***** * **** ************
+                                                                                                              I           S                      S                                              D     D     D     D     D    D D     D    D        D D    D        D      D D      D    D        D D       D              D      D D       D    D     D D       D    D     D D      D    D     D D    D            D
+Substitutions: 2
+Insertions   : 1
+Deletions    : 37
+Hits         : 24 of 63
+
+SHEET -> 10-56.txt;2;37;0;24;63;2;1;0;24;27;2;1;37;24;63
+

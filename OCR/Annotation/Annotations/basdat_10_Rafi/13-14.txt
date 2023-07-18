@@ -1,0 +1,9 @@
+Outer UNION
+Example:
+Student(Name, Ssn, Department, Advisor)
+Instructor(Name, Ssn, Department, Rank)
+The resulting relation from applying Outer Union:
+STUDENT_OR_INSTRUCTOR(Name, Ssn, Department, Advisor, Rank)
+Appear only once
+NULL for tuples from Instructor relation
+NULL for tuples from Student relation

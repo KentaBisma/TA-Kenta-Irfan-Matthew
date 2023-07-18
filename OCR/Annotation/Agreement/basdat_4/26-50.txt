@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+HYP: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+
+IRFAN VS RAFI
+REF: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+HYP: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+
+KENTA VS RAFI
+REF: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+HYP: Unique Constraints Ensure that the data in a column is unique with respect to all the rows in the table CREATE TABLE PRODUCTS ( Product_no INT UNIQUE, Name VARCAR(10) NOT NULL, Price INT);
+                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+SHEET -> 26-50.txt;0;0;0;33;33;0;0;0;33;33;0;0;0;33;33
+

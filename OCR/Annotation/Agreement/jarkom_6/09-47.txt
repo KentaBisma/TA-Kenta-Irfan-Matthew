@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+HYP: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+
+IRFAN VS RAFI
+REF: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+HYP: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+
+KENTA VS RAFI
+REF: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+HYP: Top-Level Domain, and authoritative servers Top-Level Domain (TLD) servers: responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp Network Solutions: authoritative registry for .com, .net TLD Educause: .edu TLD authoritative DNS servers: organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts can be maintained by organization or service provider
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 65 of 65
+
+SHEET -> 09-47.txt;0;0;0;65;65;0;0;0;65;65;0;0;0;65;65
+

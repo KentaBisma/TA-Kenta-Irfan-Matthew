@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ loop forever while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() ****************************************** connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close() **** *******
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ **** ******* while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.                                           encode()) connectionSocket.close() loop forever
+                                                                                                                                                                                                                                     D       D                                                                                                                                                                                            I                                                   S                             I       I
+Substitutions: 1
+Insertions   : 3
+Deletions    : 2
+Hits         : 38 of 42
+
+
+IRFAN VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ loop forever while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ loop forever while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 41 of 41
+
+
+KENTA VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ **** ******* while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper()          connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() loop forever
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ loop forever while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) ********* connectionSocket.close() **** *******
+                                                                                                                                                                                                                                     I       I                                                                                                                                                                                                     S         D                             D       D
+Substitutions: 1
+Insertions   : 2
+Deletions    : 3
+Hits         : 38 of 42
+
+SHEET -> 10-35.txt;1;3;2;38;42;0;0;0;41;41;1;2;3;38;42
+

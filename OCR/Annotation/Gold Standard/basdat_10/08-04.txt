@@ -1,0 +1,1 @@
+Recursive Closure Example (cont’d): (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. BORG_SSN  Ssn(Fname=‘James’ AND Lname=‘Borg’(EMPLOYEE)) SUPERVISION(Ssn1, Ssn2) Ssn,Super_ssn(EMPLOYEE) RESULT1(Ssn) Ssn1(SUPERVISION Ssn2=SsnBORG_SSN)

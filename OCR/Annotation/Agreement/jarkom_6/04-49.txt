@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Thinking about the DNS
+HYP: Thinking about the DNS
+                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 4 of 4
+
+
+IRFAN VS RAFI
+REF: Thinking about the DNS
+HYP: Thinking about the DNS
+                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 4 of 4
+
+
+KENTA VS RAFI
+REF: Thinking about the DNS
+HYP: Thinking about the DNS
+                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 4 of 4
+
+SHEET -> 04-49.txt;0;0;0;4;4;0;0;0;4;4;0;0;0;4;4
+

@@ -1,0 +1,12 @@
+Create/Drop a Schema
+Creating a Schema
+Enters new schema into the current database
+CREATE SCHEMA COMPANY AUTHORIZATION Jsmith;
+Create a schema which can be authorized by user Jsmith
+Tables can now be created and added to schema
+Dropping a Schema
+Remove a schema
+DROP SCHEMA COMPANY RESTRICT;
+Drop operation fails if schema is not empty
+DROP SCHEMA COMPANY CASCADE;
+Drop operation removes everything in the schema

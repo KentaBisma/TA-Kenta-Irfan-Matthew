@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: ***************** **** * ********************* ******** * ************************************ ******************* * **************** ****************************************** ********* ************************ server waits on accept() for incoming requests, new socket created on return connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() server waits on accept() for incoming requests, new socket created on return ***************** **** * ********************* ******** * ************************************ ******************* * **************** *************************************************** ************************
+                                                                                                                                                                                                                                                              I    I I                     I        I I                                    I                   I I                I                                          I         I                        I                                                                                              D    D D                     D        D D                                    D                   D D                D                                                   D                        D
+Substitutions: 0
+Insertions   : 13
+Deletions    : 12
+Hits         : 39 of 52
+
+
+IRFAN VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: server waits on accept() for incoming requests, new socket created on return connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: server waits on accept() for incoming requests, new socket created on return connectionSocket, addr = serverSocket.accept() sentence = connectionSocket.recv(1024).decode() capitalizedSentence = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 51 of 51
+
+
+KENTA VS RAFI
+REF: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True: connectionSocket,  addr  = serverSocket.accept() sentence        = connectionSocket.recv(1024).decode() capitalizedSentence      = sentence.upper() connectionSocket.send(capitalizedSentence. encode()) connectionSocket.close() server waits                    on accept() for                             incoming           requests, new           socket                                             created                       on return
+HYP: Example app: TCP server Python TCPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET,SOCK_STREAM) serverSocket.bind((‘’,serverPort)) serverSocket.listen(1) print ‘The server is ready to receive’ while True:            server waits on              accept()      for incoming                            requests,                 new socket          created                                         on    return        connectionSocket,   addr     = serverSocket.accept() sentence   = connectionSocket.recv(1024).decode() capitalizedSentence   = sentence.upper() connectionSocket.send(capitalizedSentence.encode()) connectionSocket.close() ******
+                                                                                                                                                                                                                                                              S     S  S                     S        S        S                                    S                   S      S                S                                          S         S                        S      S     S                     S        S   S                                    S                   S   S                S                                                   S                        S      D
+Substitutions: 24
+Insertions   : 0
+Deletions    : 1
+Hits         : 27 of 52
+
+SHEET -> 10-36.txt;0;13;12;39;52;0;0;0;51;51;24;0;1;27;52
+

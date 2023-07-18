@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+HYP: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 76 of 76
+
+
+IRFAN VS RAFI
+REF: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+HYP: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 76 of 76
+
+
+KENTA VS RAFI
+REF: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+HYP: INSERT An alternate form of INSERT specifies explicitly the attribute names that correspond to the values in the new tuple Attributes with NULL values can be left out Example: Insert a tuple for a new EMPLOYEE for whom we only know the FNAME, LNAME, and SSN attributes. U1A: INSERT INTO EMPLOYEE (FNAME,LNAME,SSN) VALUES('Richard','Marini','653298653'); Important Note: Only the constraints specified in the DDL commands are automatically enforced by the DBMS when updates are applied to the database
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 76 of 76
+
+SHEET -> 32-18.txt;0;0;0;76;76;0;0;0;76;76;0;0;0;76;76
+

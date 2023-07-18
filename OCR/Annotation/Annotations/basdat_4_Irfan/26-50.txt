@@ -1,0 +1,6 @@
+Unique Constraints
+Ensure that the data in a column is unique with respect to all the rows in the table
+CREATE TABLE PRODUCTS (
+Product_no INT UNIQUE,
+Name VARCAR(10) NOT NULL,
+Price INT);

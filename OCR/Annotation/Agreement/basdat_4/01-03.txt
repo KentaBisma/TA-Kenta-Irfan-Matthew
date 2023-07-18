@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Outline SQL Data Definition and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+HYP: Outline SQL Data Definition and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 18 of 18
+
+
+IRFAN VS RAFI
+REF: Outline SQL Data Definition and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+HYP: Outline SQL Data  Defintion and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+                               S                                                                                                       
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 18
+
+
+KENTA VS RAFI
+REF: Outline SQL Data Definition and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+HYP: Outline SQL Data  Defintion and Data Types Specifying Constraints in SQL Modification Data (INSERT, DELETE, and UPDATE Statements)
+                               S                                                                                                       
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 18
+
+SHEET -> 01-03.txt;0;0;0;18;18;1;0;0;17;18;1;0;0;17;18
+

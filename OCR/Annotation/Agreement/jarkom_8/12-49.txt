@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 8 of 8
+
+
+IRFAN VS RAFI
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 8 of 8
+
+
+KENTA VS RAFI
+REF: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+HYP: Streaming multimedia: DASH Dynamic, Adaptive Streaming over HTTP
+                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 8 of 8
+
+SHEET -> 12-49.txt;0;0;0;8;8;0;0;0;8;8;0;0;0;8;8
+

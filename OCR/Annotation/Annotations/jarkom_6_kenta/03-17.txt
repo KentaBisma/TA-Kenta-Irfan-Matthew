@@ -1,0 +1,5 @@
+DNS: services, structure
+DNS services:
+hostname-to-IP-address translation
+host aliasing
+canonical, alias names

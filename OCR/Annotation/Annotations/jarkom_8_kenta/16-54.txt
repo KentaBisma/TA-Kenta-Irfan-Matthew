@@ -1,0 +1,3 @@
+Content distribution networks (CDNs)
+CDN: stores copies of content (e.g. MADMEN) at CDN nodes
+subscriber requests content, service provider returns manifest

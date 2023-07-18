@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+
+IRFAN VS RAFI
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+
+KENTA VS RAFI
+REF: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+HYP: Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing
+                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 17 of 17
+
+SHEET -> 11-28.txt;0;0;0;17;17;0;0;0;17;17;0;0;0;17;17
+

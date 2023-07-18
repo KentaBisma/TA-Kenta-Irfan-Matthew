@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS protocol messages DNS query and reply messages, both have same format: * ***** * ***** identification flags # questions # answer RRs # authority RRs # additional RRs     name,      type fields for          a   query questions (variable # of **** questions)       RRs in response   to      query answers (variable # of RRs) ***** **** records for * ***** *** ** authoritative servers authority (variable   #            of    RRs) additional “ helpful” info that may be used additional info (variable # of RRs)
+HYP: DNS protocol messages DNS query and reply messages, both have same format: 2 bytes 2 bytes identification flags # questions # answer RRs # authority RRs # additional RRs questions (variable      #  of questions) answers ********* (variable # of RRs)  authority (variable  #       of RRs) additional    info (variable # of RRs) name, type  fields for a query RRs in      response      to     query   records for authoritative servers additional “ helpful” info that may be used ********** **** ********* * ** ****
+                                                                                I     I I     I                                                                                        S         S      S   S          S       S         D                   I          S         S  S        S    S          S       S                         I    I       S     I     I   I  I             S       S         S         S   S             S       S                                                      D    D         D D  D    D
+Substitutions: 21
+Insertions   : 11
+Deletions    : 7
+Hits         : 41 of 73
+
+
+IRFAN VS RAFI
+REF: DNS protocol messages DNS query and reply messages, both have same format: **** identification flags # questions # answer RRs # authority RRs # additional RRs name, type fields for a query questions (variable # of questions) RRs in response to query answers (variable # of RRs) records for authoritative servers authority (variable # of RRs) additional “ helpful” info that may be used additional info (variable # of RRs)
+HYP: DNS protocol messages DNS query and reply messages, both have same format: name identification flags # questions # answer RRs # authority RRs # additional RRs name, type fields for a query questions (variable # of questions) RRs in response to query answers (variable # of RRs) records for authoritative servers authority (variable # of RRs) additional “ helpful” info that may be used additional info (variable # of RRs)
+                                                                                   I                                                                                                                                                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 1
+Deletions    : 0
+Hits         : 69 of 70
+
+
+KENTA VS RAFI
+REF: DNS protocol messages DNS query and reply messages, both have same format:    2 bytes 2 bytes identification flags # questions # answer RRs # authority RRs # additional RRs ***** questions (variable   # of questions)   answers (variable # of       RRs) authority (variable        # of  RRs) additional info (variable # of RRs)   name, type fields for             a   query       RRs        in response to query records for authoritative servers additional “ helpful” info that may be used ********** **** ********* * ** ****
+HYP: DNS protocol messages DNS query and reply messages, both have same format: name ***** * ***** identification flags # questions # answer RRs # authority RRs # additional RRs name,      type    fields for  a      query questions (variable # of questions)       RRs        in response to query    answers **** (variable # of RRs) records **** ****** for authoritative servers authority (variable        # of  RRs) ******* *** ************* ******* additional “ helpful” info that may be used additional info (variable # of RRs)
+                                                                                   S     D D     D                                                                                    I         S         S   S  S          S         S                         S         S         S        S  S     S          S    D                           S    D      D                 S       S         S         S        S  S     S       D   D             D       D                                                      I    I         I I  I    I
+Substitutions: 22
+Insertions   : 7
+Deletions    : 10
+Hits         : 41 of 73
+
+SHEET -> 16-16.txt;21;11;7;41;73;0;1;0;69;70;22;7;10;41;73
+

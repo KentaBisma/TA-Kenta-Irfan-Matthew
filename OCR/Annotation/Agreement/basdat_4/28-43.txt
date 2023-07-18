@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+HYP: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+
+IRFAN VS RAFI
+REF: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+HYP: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+
+KENTA VS RAFI
+REF: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+HYP: Foreign Keys Referential integrity: values in a table must match the values appearing on the other table CREATE TABLE T1 ( A INT PRIMARY KEY, B INT, C INT, FOREIGN KEY (B, C) REFERENCES OTHER_TABLE (C1, C2) );
+                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+SHEET -> 28-43.txt;0;0;0;38;38;0;0;0;38;38;0;0;0;38;38
+

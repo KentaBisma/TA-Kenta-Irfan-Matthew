@@ -1,0 +1,8 @@
+Socket programming
+UDP: unreliable datagram 
+TCP: reliable, byte stream-oriented
+Application Example:
+client reads a line of characters (data) from its keyboard and sends data to server
+server receives the data and converts characters to uppercase
+server sends modified data to client
+client receives modified data and displays line on its screen

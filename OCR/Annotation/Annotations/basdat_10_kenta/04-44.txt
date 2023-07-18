@@ -1,0 +1,17 @@
+Aggregate & Grouping
+Notation: <grouping attributes><function list> (R)
+Example:
+Retrieve each department number, the number of employees in the department, and their average salary.
+R(Dno,No_of_employees,Average_sal)( 
+Renaming relation and attributes
+Dno COUNT Ssn,AVERAGE Salary(Employ
+Group by Dno
+R
+Dno No_of_employees_Average_sal
+5 4 33250
+4 3 31000
+1 1 55000
+SELECT Dno, COUNT(SSN) AS No_of_employees,
+AVG(Salary) AS Average_Sal
+FROM EMPLOYEE
+GROUP BY Dno

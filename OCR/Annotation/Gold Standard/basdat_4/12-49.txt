@@ -1,0 +1,1 @@
+RELATION IN SQL Base relations Relation and its tuples are actually created and stored as a file by the DBMS Virtual relations Created through the CREATE VIEW statement (Chapter 5) May or may not correspond to an actual physical file

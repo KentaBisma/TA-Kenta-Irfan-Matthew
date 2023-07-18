@@ -1,0 +1,14 @@
+DNS protocol messages
+DNS query and reply messages, both have same  format:
+message header:
+identification: 16 bit # for query, reply to query uses same #
+identification
+flags
+# questions
+# answer RRs
+# authority RRs
+# additional RRs
+questions (variable # of questions)
+answers (variable # of RRs)
+authority (variable # of RRs)
+additional info (variable # of RRs)

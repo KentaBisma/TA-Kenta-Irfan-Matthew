@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+HYP: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+                                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+
+IRFAN VS RAFI
+REF: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+HYP: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+                                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+
+KENTA VS RAFI
+REF: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+HYP: Create/Drop a Schema Creating a Schema Enters new schema into the current database CREATE SCHEMA COMPANY AUTHORIZATION Jsmith; Create a schema which can be authorized by user Jsmith Tables can now be created and added to schema Dropping a Schema Remove a schema DROP SCHEMA COMPANY RESTRICT; Drop operation fails if schema is not empty DROP SCHEMA COMPANY CASCADE; Drop operation removes everything in the schema
+                                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+SHEET -> 06-45.txt;0;0;0;66;66;0;0;0;66;66;0;0;0;66;66
+

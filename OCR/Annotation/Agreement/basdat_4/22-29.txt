@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+HYP: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+                                                                                                                                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+
+IRFAN VS RAFI
+REF: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+HYP: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+                                                                                                                                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+
+KENTA VS RAFI
+REF: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+HYP: Constraints in SQL Data types are used to limit the data to be stored in a table There are still many constraints to be handle Key constraints Referential Integrity Constraints Other constraints, ex: product price should only accept positive values SQL allows us to define constraints through DDL An error is raised when a constraint is violated
+                                                                                                                                                                                                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 57 of 57
+
+SHEET -> 22-29.txt;0;0;0;57;57;0;0;0;57;57;0;0;0;57;57
+

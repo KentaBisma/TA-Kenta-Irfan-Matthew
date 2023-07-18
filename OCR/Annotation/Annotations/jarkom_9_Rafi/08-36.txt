@@ -1,0 +1,15 @@
+Client/server socket interaction: TCP
+server (running on hostid)
+client
+create socket, port=x, for incoming request: 
+serverSocket = socket()
+wait for incoming connection request
+connectionSocket = serverSocket.accept()
+create socket, connect to hostid, port=x
+clientSocket = socket()
+send request using clientSocket
+read request from connectionSocket
+write reply to connectionSocket
+read reply from clientSocket
+close connectionSocket
+close clientSocket

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+HYP: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+
+IRFAN VS RAFI
+REF: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+HYP: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+
+KENTA VS RAFI
+REF: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+HYP: DNS security DDoS attacks bombard root servers with traffic not successful to date traffic filtering local DNS servers cache IPs of TLD servers, allowing root server bypass bombard TLD servers potentially more dangerous
+                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 33 of 33
+
+SHEET -> 17-10.txt;0;0;0;33;33;0;0;0;33;33;0;0;0;33;33
+

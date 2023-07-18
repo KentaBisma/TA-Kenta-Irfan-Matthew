@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: References Elmasri 7th edition: Chapter 8 Stanford Database (CS145) Lecture 16
+HYP: References Elmasri 7th edition: Chapter 8 Stanford Database (CS145) Lecture 16
+                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 11 of 11
+
+
+IRFAN VS RAFI
+REF: References Elmasri 7th edition: Chapter 8 Stanford Database (CS145) Lecture 16
+HYP: References Elmasri 6th edition: Chapter 6 Stanford Database (CS145) Lecture 16
+                          S                  S                                     
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 9 of 11
+
+
+KENTA VS RAFI
+REF: References Elmasri 7th edition: Chapter 8 Stanford Database (CS145) Lecture 16
+HYP: References Elmasri 6th edition: Chapter 6 Stanford Database (CS145) Lecture 16
+                          S                  S                                     
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 9 of 11
+
+SHEET -> 00-32.txt;0;0;0;11;11;2;0;0;9;11;2;0;0;9;11
+

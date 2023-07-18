@@ -1,0 +1,12 @@
+DNS: Domain Name System
+people: many identifiers:
+SSN, name, passport #
+Internet hosts, routers:
+IP address (32 bit) - used for addressing datagrams
+“name”, e.g., cs.umass.edu - used by humans
+Q: how to map between IP address and name, and vice versa ?
+Domain Name System (DNS):
+distributed database implemented in hierarchy of many name servers
+application-layer protocol: hosts, DNS servers communicate to resolve names (address/name translation)
+note: core Internet function, implemented as application-layer protocol
+complexity at network’s “edge”

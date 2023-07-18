@@ -1,0 +1,1 @@
+Streaming stored video: challenges continuous playout constraint: during client video playout, playout timing must match original timing

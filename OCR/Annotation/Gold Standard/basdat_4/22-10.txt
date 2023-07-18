@@ -1,0 +1,1 @@
+DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;

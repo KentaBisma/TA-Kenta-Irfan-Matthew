@@ -1,0 +1,7 @@
+Basic SQL
+SQL language
+Structured Query Language
+Considered one of the major reasons for the commercial success of relational databases
+Standardized – many new feature over time
+Interactive via GUI or prompt, or embedded in programs
+Declarative, based on relational algebra

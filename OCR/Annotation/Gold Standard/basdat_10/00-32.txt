@@ -1,0 +1,1 @@
+References Elmasri 7th edition: Chapter 8 Stanford Database (CS145) Lecture 16

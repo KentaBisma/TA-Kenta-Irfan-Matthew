@@ -1,0 +1,8 @@
+DNS security
+DDoS attacks
+bombard root servers with traffic
+not successful to date
+traffic filtering
+local DNS servers cache IPs of TLD servers, allowing root server bypass
+bombard TLD servers
+potentially more dangerous

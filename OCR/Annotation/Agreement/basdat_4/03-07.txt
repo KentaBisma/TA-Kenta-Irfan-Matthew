@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+HYP: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 49 of 49
+
+
+IRFAN VS RAFI
+REF: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+HYP: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 49 of 49
+
+
+KENTA VS RAFI
+REF: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+HYP: Domains in SQL Domain It is possible to specify data type directly Makes it easier to change the data type for a domain that is used by numerous attributes Improves schema readibility Ex: SSN_TYPE in place of CHAR(9), for attribute Ssn, Super_ssn, Mgr_ssn, etc. CREATE DOMAIN SSN_TYPE AS CHAR(9);
+                                                                                                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 49 of 49
+
+SHEET -> 03-07.txt;0;0;0;49;49;0;0;0;49;49;0;0;0;49;49
+

@@ -1,0 +1,7 @@
+Streaming stored video
+Internet
+video server
+(stored video)
+client
+Main challenges:
+server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server)

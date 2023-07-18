@@ -1,0 +1,8 @@
+Foreign Keys
+Referential integrity: values in a table must match the values appearing on the other table
+CREATE TABLE T1 (
+A INT PRIMARY KEY,
+B INT,
+C INT,
+FOREIGN KEY (B, C) REFERENCES
+OTHER_TABLE (C1, C2) );

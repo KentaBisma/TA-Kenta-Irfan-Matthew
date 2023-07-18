@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Basic SQL SQL language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized - many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+HYP: Basic SQL SQL language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized – many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+                                                                                                                                                          S                                                                                                                           
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 41
+
+
+IRFAN VS RAFI
+REF: Basic SQL ***** SQL *** language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized - many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+HYP: Basic SQL Basic SQL SQL language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized – many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+                   I       I                                                                                                                                        S                                                                                                                           
+Substitutions: 1
+Insertions   : 2
+Deletions    : 0
+Hits         : 40 of 43
+
+
+KENTA VS RAFI
+REF: Basic SQL ***** *** SQL language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized – many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+HYP: Basic SQL Basic SQL SQL language Structured Query Language Considered one of the major reasons for the commercial success of relational databases Standardized – many new feature over time Interactive via GUI or prompt, or embedded in programs Declarative, based on relational algebra
+                   I   I                                                                                                                                                                                                                                                                        
+Substitutions: 0
+Insertions   : 2
+Deletions    : 0
+Hits         : 41 of 43
+
+SHEET -> 01-33.txt;1;0;0;40;41;1;2;0;40;43;0;2;0;41;43
+

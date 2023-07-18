@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+HYP: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+                                                                                                                                                                                                     
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 30 of 30
+
+
+IRFAN VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+                                                                         S                                                                                                                           
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 29 of 30
+
+
+KENTA VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams “name”, e.g., cs.umass.edu - used by humans
+                                                                         S                                                                                                                           
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 29 of 30
+
+SHEET -> 01-08.txt;0;0;0;30;30;1;0;0;29;30;1;0;0;29;30
+

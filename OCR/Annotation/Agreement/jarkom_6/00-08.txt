@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Application Layer (4/7) Domain Name System CSCM603154 – Computer Networks  Faculty   of Computer Science, Universitas Indonesia All material taken from “Computer Networking: A Top-Down Approach” copyright 1996-2020, J.F Kurose and K.W. Ross, All Rights Reserved
+HYP: Application Layer (4/7) Domain Name System CSCM603154 - Jaringan Komputer Fakultas Ilmu Komputer       UI *********** ********* *** ******** ***** **** ********* *********** * ******** ********* ********* ********** *** ****** *** **** ***** *** ****** ********
+                                                           S        S        S        S    S        S        S           D         D   D        D     D    D         D           D D        D         D         D          D   D      D   D    D     D   D      D        D
+Substitutions: 7
+Insertions   : 0
+Deletions    : 21
+Hits         : 7 of 35
+
+
+IRFAN VS RAFI
+REF: Application Layer (4/7) Domain Name System CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia All material taken from “Computer Networking: A Top-Down Approach” copyright 1996-2020, J.F Kurose and K.W. Ross, All Rights Reserved
+HYP: Application Layer (4/7) Domain Name System CSCM603154 – Computer Networks Faculty of Computer Science, Universitas Indonesia *** ******** ***** **** ********* *********** * ******** ********* ********* ********** *** ****** *** **** ***** *** ****** ********
+                                                                                                                                    D        D     D    D         D           D D        D         D         D          D   D      D   D    D     D   D      D        D
+Substitutions: 0
+Insertions   : 0
+Deletions    : 19
+Hits         : 16 of 35
+
+
+KENTA VS RAFI
+REF: Application Layer (4/7) Domain Name System CSCM603154 * ********        - Jaringan Komputer Fakultas     Ilmu    Komputer        UI
+HYP: Application Layer (4/7) Domain Name System CSCM603154 – Computer Networks  Faculty       of Computer Science, Universitas Indonesia
+                                                           I        I        S        S        S        S        S           S         S
+Substitutions: 7
+Insertions   : 2
+Deletions    : 0
+Hits         : 7 of 16
+
+SHEET -> 00-08.txt;7;0;21;7;35;0;0;19;16;35;7;2;0;7;16
+

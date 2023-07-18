@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: See you in the next video
+HYP: See you in the next video
+                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 6 of 6
+
+
+IRFAN VS RAFI
+REF: See you in the next video
+HYP: See you in the next video
+                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 6 of 6
+
+
+KENTA VS RAFI
+REF: See you in the next video
+HYP: See you in the next video
+                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 6 of 6
+
+SHEET -> 18-00.txt;0;0;0;6;6;0;0;0;6;6;0;0;0;6;6
+

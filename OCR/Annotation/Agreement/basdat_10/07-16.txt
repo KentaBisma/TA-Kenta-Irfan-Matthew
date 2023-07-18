@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’.   …. (Level n)   …
+HYP: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. .... (Level n) ...
+                                                                                                                                                                                                                                                                                                                                                                                                                S             S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 64 of 66
+
+
+IRFAN VS RAFI
+REF: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’.   …. (Level n)   …
+HYP: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. .... (Level n) ...
+                                                                                                                                                                                                                                                                                                                                                                                                                S             S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 64 of 66
+
+
+KENTA VS RAFI
+REF: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. .... (Level n) ...
+HYP: Recursive Closure Applied to a recursive relationship between tuples of the same type. Example: Retrieve all supervisees (at all levels) of an employee whose name is ‘James Borg’. We utilize a looping mechanism (Level 1) Retrieve all direct supervisees of an employee whose name is ‘James Borg’. (Level 2) Retrieve all supervisees of some employee who is directly supervised by ‘James Borg’. .... (Level n) ...
+                                                                                                                                                                                                                                                                                                                                                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 66 of 66
+
+SHEET -> 07-16.txt;2;0;0;64;66;2;0;0;64;66;0;0;0;66;66
+

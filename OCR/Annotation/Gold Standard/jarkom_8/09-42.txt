@@ -1,0 +1,1 @@
+Streaming stored video simple scenario: Main challenges: server-to-client bandwidth will vary over time, with changing network congestion levels (in house, access network, network core, video server) packet loss, delay due to congestion will delay playout, or result in poor video quality

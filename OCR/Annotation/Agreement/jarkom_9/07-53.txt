@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+                                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+IRFAN VS RAFI
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+                                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+KENTA VS RAFI
+REF: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+HYP: Client/server socket interaction: TCP server (running on hostid) client create socket, port=x, for incoming request: serverSocket = socket() wait for incoming connection request connectionSocket = serverSocket.accept() create socket, connect to hostid, port=x clientSocket = socket()
+                                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+SHEET -> 07-53.txt;0;0;0;35;35;0;0;0;35;35;0;0;0;35;35
+

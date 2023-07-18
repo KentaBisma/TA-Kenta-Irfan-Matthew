@@ -1,0 +1,6 @@
+Aggregate & Grouping
+If no grouping attributes are specified, then the functions are applied to all tuples in the relation.
+Example:
+Retrieve the number of employees and their average salary.
+R(No_of_employees,Average_sal) (COUNT Ssn,AVERAGE Salary(Employee))
+R

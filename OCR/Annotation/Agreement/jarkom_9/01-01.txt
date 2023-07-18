@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented
+HYP: Socket programming *** ****** ***** *** *** ********* ********* UDP: unreliable datagram TCP: reliable, byte stream-oriented
+                          D      D     D   D   D         D         D                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 7
+Hits         : 9 of 16
+
+
+IRFAN VS RAFI
+REF: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented
+HYP: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented
+                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 16 of 16
+
+
+KENTA VS RAFI
+REF: Socket programming *** ****** ***** *** *** ********* ********* UDP: unreliable datagram TCP: reliable, byte stream-oriented
+HYP: Socket programming Two socket types for two transport services: UDP: unreliable datagram TCP: reliable, byte stream-oriented
+                          I      I     I   I   I         I         I                                                             
+Substitutions: 0
+Insertions   : 7
+Deletions    : 0
+Hits         : 9 of 16
+
+SHEET -> 01-01.txt;0;0;7;9;16;0;0;0;16;16;0;7;0;9;16
+

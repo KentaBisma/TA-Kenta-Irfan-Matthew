@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 42 of 42
+
+
+IRFAN VS RAFI
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 42 of 42
+
+
+KENTA VS RAFI
+REF: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+HYP: DNS: root name servers official, contact-of-last-resort by name servers that can not resolve name incredibly important Internet function Internet couldn’t function without it! DNSSEC – provides security (authentication, message integrity) ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 42 of 42
+
+SHEET -> 08-54.txt;0;0;0;42;42;0;0;0;42;42;0;0;0;42;42
+

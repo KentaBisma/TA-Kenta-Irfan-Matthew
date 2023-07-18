@@ -1,0 +1,1 @@
+Local DNS name servers when host makes DNS query, it is sent to its local DNS server Local DNS server returns reply, answering: from its local cache of recent name-to-address translation pairs (possibly out of date!) forwarding request into DNS hierarchy for resolution each ISP has local DNS name server; to find yours: MacOS: % scutil --dns Windows: >ipconfig /all

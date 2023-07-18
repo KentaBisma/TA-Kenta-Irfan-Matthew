@@ -1,0 +1,4 @@
+Pnumber, Dnum, Lname, Address, Bdate(((Plocation=‘Stafford’(PROJECT)) Dnum=Dnumber(DEPARTMENT)) Mgr_ssn=Ssn(EMPLOYEE))
+Query Tree
+Example:
+For every project located in ‘Stafford’, list the project number, the controlling department number, and the department manager’s last name, address, and birth date.

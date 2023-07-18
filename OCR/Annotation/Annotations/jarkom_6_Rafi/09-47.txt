@@ -1,0 +1,8 @@
+Top-Level Domain, and authoritative servers
+Top-Level Domain (TLD) servers:
+responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp
+Network Solutions: authoritative registry for .com, .net TLD
+Educause: .edu TLD
+authoritative DNS servers: 
+organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts 
+can be maintained by organization or service provider

@@ -1,0 +1,1 @@
+Streaming stored video streaming: at this time, client playing out early part of video, while server still sending later part of video

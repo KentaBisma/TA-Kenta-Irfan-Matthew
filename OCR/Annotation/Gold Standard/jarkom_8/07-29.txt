@@ -1,0 +1,1 @@
+Multimedia: video CBR: (constant bit rate): video encoding rate fixed spatial coding example: instead of sending N values of same color (all purple), send only two values: color value (purple) and number of repeated values (N) temporal coding example: instead of sending complete frame at i+1, send only differences from frame i

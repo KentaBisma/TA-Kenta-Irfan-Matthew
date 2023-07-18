@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+HYP: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 75 of 75
+
+
+IRFAN VS RAFI
+REF: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+HYP: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 75 of 75
+
+
+KENTA VS RAFI
+REF: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+HYP: ALTER TABLE Used to add an attribute to one of the base relations The new attribute will have NULLs in all the tuples of the relation right after the command is executed The NOT NULL constraint is not allowed for such an attribute Example: ALTER TABLE EMPLOYEE ADD JOB VARCHAR(12); The database users must still enter a value for the new attribute JOB for each EMPLOYEE tuple. This can be done using the UPDATE command.
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 75 of 75
+
+SHEET -> 21-43.txt;0;0;0;75;75;0;0;0;75;75;0;0;0;75;75
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+HYP: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 58 of 58
+
+
+IRFAN VS RAFI
+REF: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+HYP: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 58 of 58
+
+
+KENTA VS RAFI
+REF: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+HYP: DNS records DNS: distributed database storing resource records (RR) RR format: (name, value, type, ttl) type=A name is hostname value is IP address type=NS name is domain (e.g., foo.com) value is hostname of authoritative name server for this domain type=CNAME name is alias name for some “canonical” (the real) name www.ibm.com is really servereast.backup2.ibm.com value is canonical name
+                                                                                                                                                                                                                                                                                                                                                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 58 of 58
+
+SHEET -> 15-27.txt;0;0;0;58;58;0;0;0;58;58;0;0;0;58;58
+

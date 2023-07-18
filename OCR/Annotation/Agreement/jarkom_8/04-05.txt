@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image
+                                                                                                                                                                                                                                                      
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 38
+
+
+IRFAN VS RAFI
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image ***** * ***** ***
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image frame i frame i+1
+                                                                                                                                                                                                                                                           I I     I   I
+Substitutions: 0
+Insertions   : 4
+Deletions    : 0
+Hits         : 38 of 42
+
+
+KENTA VS RAFI
+REF: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image ***** * ***** ***
+HYP: Multimedia: video video: sequence of images displayed at constant rate e.g., 24 images/sec digital image: array of pixels each pixel represented by bits coding: use redundancy within and between images to decrease # bits used to encode image frame i frame i+1
+                                                                                                                                                                                                                                                           I I     I   I
+Substitutions: 0
+Insertions   : 4
+Deletions    : 0
+Hits         : 38 of 42
+
+SHEET -> 04-05.txt;0;0;0;38;38;0;4;0;38;42;0;4;0;38;42
+

@@ -1,0 +1,3 @@
+Socket programming
+UDP: unreliable datagram 
+TCP: reliable, byte stream-oriented

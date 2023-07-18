@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+HYP: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 16 of 16
+
+
+IRFAN VS RAFI
+REF: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+HYP: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 16 of 16
+
+
+KENTA VS RAFI
+REF: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+HYP: Streaming stored video: playout buffering client-side buffering and playout delay: compensate for network-added delay, delay jitter
+                                                                                                                                        
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 16 of 16
+
+SHEET -> 12-41.txt;0;0;0;16;16;0;0;0;16;16;0;0;0;16;16
+

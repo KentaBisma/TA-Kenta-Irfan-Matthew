@@ -1,0 +1,2 @@
+Streaming stored video: playout buffering
+client-side buffering and playout delay: compensate for network-added delay, delay jitter

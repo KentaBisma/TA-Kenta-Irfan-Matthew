@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed
+                                                                          
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 10 of 10
+
+
+IRFAN VS RAFI
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed ******* ****** ******** ******* ** ******* * ****** ** **** ***** **** ******** **** **** *** ******* ***** ***** ******** *** ****** ** ******** ****** *** ***** * ******** ****** ******** ******* ** ******* ******** ***** ** **** **** **** *********** **** ***** * ***** ***
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed spatial coding example: instead of sending N values of same color (all purple), send only two values: color value (purple) and number of repeated values (N) frame i temporal coding example: instead of sending complete frame at i+1, send only differences from frame i frame i+1
+                                                                                 I      I        I       I  I       I I      I  I    I     I    I        I    I    I   I       I     I     I        I   I      I  I        I      I   I     I I        I      I        I       I  I       I        I     I  I    I    I    I           I    I     I I     I   I
+Substitutions: 0
+Insertions   : 46
+Deletions    : 0
+Hits         : 10 of 56
+
+
+KENTA VS RAFI
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed ******* ****** ******** ******* ** ******* * ****** ** **** ***** **** ******** **** **** *** ******* ***** ***** ******** *** ****** ** ******** ****** *** ***** * ******** ****** ******** ******* ** ******* ******** ***** ** **** **** **** *********** **** ***** * ***** ***
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed spatial coding example: instead of sending N values of same color (all purple), send only two values: color value (purple) and number of repeated values (N) frame i temporal coding example: instead of sending complete frame at i+1, send only differences from frame i frame i+1
+                                                                                 I      I        I       I  I       I I      I  I    I     I    I        I    I    I   I       I     I     I        I   I      I  I        I      I   I     I I        I      I        I       I  I       I        I     I  I    I    I    I           I    I     I I     I   I
+Substitutions: 0
+Insertions   : 46
+Deletions    : 0
+Hits         : 10 of 56
+
+SHEET -> 07-14.txt;0;0;0;10;10;0;46;0;10;56;0;46;0;10;56
+

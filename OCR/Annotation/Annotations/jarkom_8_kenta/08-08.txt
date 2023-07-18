@@ -1,0 +1,3 @@
+Multimedia: video
+CBR: (constant bit rate): video encoding rate fixed
+VBR:  (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes

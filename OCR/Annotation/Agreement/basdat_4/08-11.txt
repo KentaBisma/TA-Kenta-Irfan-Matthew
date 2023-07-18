@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC       Floating point (real) numbers: FLOAT or REAL, and DOUBLE PRECISION        Character string data types Fixed length: CHAR(n), CHARACTER(n)        Variable length with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+HYP: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC Floating-point ***** (real) numbers: FLOAT or REAL, and DOUBLE PRECISION Character-string ****** data types Fixed length: CHAR(n), CHARACTER(n) Variable-length ****** with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+                                                                                                                                                                                                                                    S     D                                                                    S      D                                                              S      D                                                                                              
+Substitutions: 3
+Insertions   : 0
+Deletions    : 3
+Hits         : 60 of 66
+
+
+IRFAN VS RAFI
+REF: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC       Floating point (real) numbers: FLOAT or REAL, and DOUBLE PRECISION        Character string data types Fixed length: CHAR(n), CHARACTER(n)        Variable length with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+HYP: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC Floating-point ***** (real) numbers: FLOAT or REAL, and DOUBLE PRECISION Character-string ****** data types Fixed length: CHAR(n), CHARACTER(n) Variable-length ****** with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+                                                                                                                                                                                                                                    S     D                                                                    S      D                                                              S      D                                                                                              
+Substitutions: 3
+Insertions   : 0
+Deletions    : 3
+Hits         : 60 of 66
+
+
+KENTA VS RAFI
+REF: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC Floating-point (real) numbers: FLOAT or REAL, and DOUBLE PRECISION Character-string data types Fixed length: CHAR(n), CHARACTER(n) Variable-length with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+HYP: Data Types in SQL Each DBMS may have their own DBMS specific data types Is this good or bad? Basic data types Numeric data types Integer numbers: INTEGER, INT, and SMALLINT Arbitrary Precision Numbers: NUMERIC Floating-point (real) numbers: FLOAT or REAL, and DOUBLE PRECISION Character-string data types Fixed length: CHAR(n), CHARACTER(n) Variable-length with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n) Variable unlimited length: TEXT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 63 of 63
+
+SHEET -> 08-11.txt;3;0;3;60;66;3;0;3;60;66;0;0;0;63;63
+

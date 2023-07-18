@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+                                                                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 45 of 45
+
+
+IRFAN VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers ******* *** ******* umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+                                                                                                                                                                                                                                    I   I       I                                                                                                   
+Substitutions: 0
+Insertions   : 3
+Deletions    : 0
+Hits         : 45 of 48
+
+
+KENTA VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers ******* *** ******* umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation:
+                                                                                                                                                                                                                                    I   I       I                                                                                                   
+Substitutions: 0
+Insertions   : 3
+Deletions    : 0
+Hits         : 45 of 48
+
+SHEET -> 07-32.txt;0;0;0;45;45;0;3;0;45;48;0;3;0;45;48
+

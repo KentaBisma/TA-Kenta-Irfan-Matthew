@@ -1,0 +1,6 @@
+Streaming stored video
+Internet
+video server
+(stored video)
+client
+Main challenges:

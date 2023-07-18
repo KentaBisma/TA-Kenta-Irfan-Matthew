@@ -1,0 +1,7 @@
+Multimedia: video
+CBR: (constant bit rate): video encoding rate fixed
+VBR:  (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes
+examples:
+MPEG 1 (CD-ROM) 1.5 Mbps
+MPEG2 (DVD) 3-6 Mbps
+MPEG4 (often used in Internet,  64Kbps – 12 Mbps)

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname=‘Brown’; U4B: DELETE FROM EMPLOYEE WHERE Ssn=‘123456789’; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4D: DELETE FROM EMPLOYEE;
+HYP: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname='Brown'; U4B: DELETE FROM EMPLOYEE WHERE Ssn='123456789'; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4B: DELETE FROM EMPLOYEE;
+                                                                                                                                                               S                                                S                                           S                      
+Substitutions: 3
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 41
+
+
+IRFAN VS RAFI
+REF: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname=‘Brown’; U4B: DELETE FROM EMPLOYEE WHERE Ssn=‘123456789’; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4D: DELETE FROM EMPLOYEE;
+HYP: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname='Brown'; U4B: DELETE FROM EMPLOYEE WHERE Ssn='123456789'; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4D: DELETE FROM EMPLOYEE;
+                                                                                                                                                               S                                                S                                                                  
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 39 of 41
+
+
+KENTA VS RAFI
+REF: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname='Brown'; U4B: DELETE FROM EMPLOYEE WHERE Ssn='123456789'; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4B: DELETE FROM EMPLOYEE;
+HYP: The DELETE Command Removes tuples from a relation Includes a WHERE clause to select the tuples to be deleted U4A: DELETE FROM EMPLOYEE WHERE Lname='Brown'; U4B: DELETE FROM EMPLOYEE WHERE Ssn='123456789'; U4C: DELETE FROM EMPLOYEE WHERE Dno=5; U4D: DELETE FROM EMPLOYEE;
+                                                                                                                                                                                                                                                            S                      
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 40 of 41
+
+SHEET -> 36-13.txt;3;0;0;38;41;2;0;0;39;41;1;0;0;40;41
+

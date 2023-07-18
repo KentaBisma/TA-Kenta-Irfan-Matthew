@@ -1,0 +1,12 @@
+Primary Keys
+Combination between unique constraint and NOT NULL constraint
+CREATE TABLE PRODUCTS (
+Product_no INT PRIMARY KEY,
+Name VARCAR(10) NOT NULL,
+Price INT);
+Another way:
+CREATE TABLE EXAMPLE(
+A INT,
+B INT,
+C INT
+PRIMARY KEY (A,C));

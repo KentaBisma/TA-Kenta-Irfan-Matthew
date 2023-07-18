@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: CREATE TABLE EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), Sex CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (Ssn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES  DEPARTMENT(Dnumber) ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) ); ****** *** *** ****** ***** **** ********** *********** *** ******** ******* ****** **** ****** ****
+HYP: CREATE TABLE EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), Sex CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (Ssn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES DEPARTMENT(Dnumber), ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) ); Figure 4.1 SQL CREATE TABLE data definition state-ments for defining COMPANY schema from Figure 3.7.
+                                                                                                                                                                                                                                                                                                                                                  S                                                                                                                                                                                                                             I   I   I      I     I    I          I           I   I        I       I      I    I      I    I
+Substitutions: 1
+Insertions   : 15
+Deletions    : 0
+Hits         : 74 of 90
+
+
+IRFAN VS RAFI
+REF: ****** *** *** CREATE TABLE **** ********** *********** *** ******** ******* ****** **** ****** **** ****** ***** EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), Sex CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (Ssn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES DEPARTMENT(Dnumber) ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) );
+HYP: Figure 4.1 SQL CREATE TABLE data definition state-ments for defining COMPANY schema from Figure 3.7. CREATE TABLE EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), SEX CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (SSn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES DEPARTMENT(Dnumber) ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) );
+          I   I   I                 I          I           I   I        I       I      I    I      I    I      I     I                                                                                                                                         S                                                                                   S                                                                                                                                                                                                                                                                                                                          
+Substitutions: 2
+Insertions   : 15
+Deletions    : 0
+Hits         : 73 of 90
+
+
+KENTA VS RAFI
+REF: ****** *** *** CREATE TABLE **** ********** *********** *** ******** ******* ****** **** ****** **** ****** ***** EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), Sex CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (Ssn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES DEPARTMENT(Dnumber), ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) ); Figure 4.1 SQL CREATE TABLE data definition state-ments for defining COMPANY schema from Figure 3.7.
+HYP: Figure 4.1 SQL CREATE TABLE data definition state-ments for defining COMPANY schema from Figure 3.7. CREATE TABLE EMPLOYEE ( Fname VARCHAR(15) NOT NULL, Minit CHAR, Lname VARCHAR(15) NOT NULL, Ssn CHAR(9) NOT NULL, Bdate DATE, Address VARCHAR(30), SEX CHAR, Salary DECIMAL(10,2), Super_ssn CHAR(9), Dno INT NOT NULL, PRIMARY KEY (SSn), FOREIGN KEY (Super_ssn) REFERENCES EMPLOYEE(Ssn), FOREIGN KEY (Dno) REFERENCES  DEPARTMENT(Dnumber) ); CREATE TABLE DEPARTMENT ( Dname VARCHAR(15) NOT NULL, Dnumber INT NOT NULL, Mgr_ssn CHAR(9) NOT NULL, Mgr_start_date DATE, PRIMARY KEY (Dnumber), UNIQUE (Dname), FOREIGN KEY (Mgr_ssn) REFERENCES EMPLOYEE(Ssn) ); ****** *** *** ****** ***** **** ********** *********** *** ******** ******* ****** **** ****** ****
+          I   I   I                 I          I           I   I        I       I      I    I      I    I      I     I                                                                                                                                         S                                                                                   S                                                                                                   S                                                                                                                                                                                                                             D   D   D      D     D    D          D           D   D        D       D      D    D      D    D
+Substitutions: 3
+Insertions   : 15
+Deletions    : 15
+Hits         : 72 of 90
+
+SHEET -> 15-58.txt;1;15;0;74;90;2;15;0;73;90;3;15;15;72;90
+

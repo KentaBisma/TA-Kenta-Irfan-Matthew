@@ -1,0 +1,16 @@
+DNS: services, structure
+DNS services:
+hostname-to-IP-address translation
+host aliasing
+canonical, alias names
+mail server aliasing
+load distribution
+replicated Web servers: many IP addresses correspond to one name
+Q: Why not centralize DNS?
+single point of failure
+traffic volume
+distant centralized database
+maintenance
+A: doesn‘t scale!
+Comcast DNS servers alone: 600B DNS queries/day
+Akamai DNS servers alone: 2.2T DNS queries/day

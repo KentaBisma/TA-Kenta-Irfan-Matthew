@@ -1,0 +1,12 @@
+Data Types in SQL
+Each DBMS may have their own DBMS specific data types
+Is this good or bad?
+Basic data types
+Numeric data types
+Integer numbers: INTEGER, INT, and SMALLINT
+Arbitrary Precision Numbers: NUMERIC
+Floating point (real) numbers: FLOAT or REAL, and DOUBLE PRECISION
+Character string data types
+Fixed length: CHAR(n), CHARACTER(n)
+Variable length with limit: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n)
+Variable unlimited length: TEXT

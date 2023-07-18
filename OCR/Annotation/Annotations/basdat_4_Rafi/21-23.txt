@@ -1,0 +1,7 @@
+Create TABLE: Foreign keys
+Some foreign keys may cause errors
+Circular references
+Foreign key which refers to the table itself
+Super_ssn refers to the Ssn
+They refer to a table that has not been created
+Added later using ALTER TABLE statement

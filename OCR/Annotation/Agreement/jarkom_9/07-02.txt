@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) loop forever while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper() serverSocket.sendto(modifiedMessage.encode(), clientAddress) **** *******
+HYP: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) **** ******* while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper() serverSocket.sendto(modifiedMessage.encode(), clientAddress) loop forever
+                                                                                                                                                                                                                 D       D                                                                                                                                                                             I       I
+Substitutions: 0
+Insertions   : 2
+Deletions    : 2
+Hits         : 37 of 39
+
+
+IRFAN VS RAFI
+REF: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) loop forever while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper()               serverSocket.sendto(modifiedMessage.encode(), clientAddress)
+HYP: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) loop forever while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper() serverSocket.sendto(modifiedMessage.encode(),clientAddress) **************
+                                                                                                                                                                                                                                                                                                                                                                                                 S              D
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 37 of 39
+
+
+KENTA VS RAFI
+REF: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) **** ******* while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper()               serverSocket.sendto(modifiedMessage.encode(), clientAddress) loop forever
+HYP: Example app: UDP server Python UDPServer from socket import * serverPort = 12000 serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind(('', serverPort)) print (“The server is ready to receive”) loop forever while True: message, clientAddress = serverSocket.recvfrom(2048) modifiedMessage = message.decode().upper() serverSocket.sendto(modifiedMessage.encode(),clientAddress) ************** **** *******
+                                                                                                                                                                                                                 I       I                                                                                                                                                                       S              D    D       D
+Substitutions: 1
+Insertions   : 2
+Deletions    : 3
+Hits         : 35 of 39
+
+SHEET -> 07-02.txt;0;2;2;37;39;1;0;1;37;39;1;2;3;35;39
+

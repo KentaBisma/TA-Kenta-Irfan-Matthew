@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+HYP: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 36 of 36
+
+
+IRFAN VS RAFI
+REF: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+HYP: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 36 of 36
+
+
+KENTA VS RAFI
+REF: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+HYP: DROP TABLE Used to remove a relation (base table) and its definition The relation can no longer be used in queries, updates, or any other commands since its description no longer exists Example: DROP TABLE DEPENDENT;
+                                                                                                                                                                                                                             
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 36 of 36
+
+SHEET -> 22-10.txt;0;0;0;36;36;0;0;0;36;36;0;0;0;36;36
+

@@ -1,0 +1,16 @@
+Outer JOIN
+Notation: R1 R2 (left) or R1 R2 (right) or R1 R2 (full)
+Example:
+Left Outer JOIN
+TEMP EMPLOYEE Ssn=Mgr_ssnDEPARTMENT)
+RESULT Fname, Minit, Lname, Dname(TEMP)
+RESULT
+Fname Minit Lname Dname
+John B Smith NULL
+Franklin T Wong Research
+Alicia J Zelaya Null
+Jennifer S Wallace Administration
+Ramesh K Narayan NULL
+Joyce A English NULL
+Ahmad V Jabbar NULL
+James E Borg Headquarters

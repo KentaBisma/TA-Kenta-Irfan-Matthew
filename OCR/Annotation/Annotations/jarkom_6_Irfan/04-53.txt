@@ -1,0 +1,3 @@
+Thinking about the DNS
+humongous distributed database:
+~ billion records, each simple

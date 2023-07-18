@@ -1,0 +1,1 @@
+DNS name resolution: recursive query Example: host at engineering.nyu.edu wants IP address for gaia.cs.umass.edu Recursive query: puts burden of name resolution on contacted name server heavy load at upper levels of hierarchy?

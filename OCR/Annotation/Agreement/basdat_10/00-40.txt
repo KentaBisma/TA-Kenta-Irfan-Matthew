@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: ***** **** Pnumber, Dnum, Lname, Address, Bdate(((Plocation=‘Stafford’(PROJECT)) Dnum=Dnumber(DEPARTMENT)) Mgr_ssn=Ssn(EMPLOYEE)) Query Tree Example: For every project located in ‘Stafford’, list the project number, the controlling department number, and the department manager’s last name, address, and birth date. ****** *** ***** **** ************* ** *** *********** ******* ********** *** ***
+HYP: Query Tree Pnumber, Dnum, Lname, Address, Bdate(((Plocation='Stafford'(PROJECT)) Dnum=Dnumber(DEPARTMENT)) MGR_ssn=Ssn(EMPLOYEE)) ***** **** Example: For every project located in ‘Stafford’, list the project number, the controlling department number, and the department manager’s last name, address, and birth date. Figure 6.9 Query tree corresponding to the relatioinal algebra expression for Q2.
+         I    I                                                                     S                                                S     D    D                                                                                                                                                                                     I   I     I    I             I  I   I           I       I          I   I   I
+Substitutions: 2
+Insertions   : 14
+Deletions    : 2
+Hits         : 30 of 46
+
+
+IRFAN VS RAFI
+REF: Pnumber, Dnum, Lname, Address, Bdate(((Plocation=‘Stafford’(PROJECT)) Dnum=Dnumber(DEPARTMENT)) Mgr_ssn=Ssn(EMPLOYEE)) Query Tree Example: For every project located in ‘Stafford’, list the project number, the controlling department number, and the department manager’s last         name, address, and birth date. ******** ***** ****** ******** ************************************** ************************* **********************
+HYP: ******** ***** ****** ******** ************************************** ************************* ********************** Query Tree Example: For every project located in 'Stafford', list the project number, the controlling department number, and the department manager's last name,address, ******** and birth date. Pnumber, Dnum, Lname, Address, Bdate(((Plocation=‘Stafford’(PROJECT)) Dnum=Dnumber(DEPARTMENT)) Mgr_ssn=Ssn(EMPLOYEE))
+            D     D      D        D                                      D                         D                      D                                                            S                                                                                        S                  S        D                        I     I      I        I                                      I                         I                      I
+Substitutions: 3
+Insertions   : 7
+Deletions    : 8
+Hits         : 23 of 34
+
+
+KENTA VS RAFI
+REF: Query Tree Pnumber, Dnum, Lname, Address, Bdate(((Plocation='Stafford'(PROJECT)) Dnum=Dnumber(DEPARTMENT)) MGR_ssn=Ssn(EMPLOYEE)) Example: For every project located in ‘Stafford’, list the project number, the controlling department number, and the department manager’s last         name, address, and birth date.   Figure   6.9  Query     tree                          corresponding                        to                    the relatioinal algebra expression for Q2.
+HYP: Query Tree ******** ***** ****** ******** ************************************** ************************* ********************** Example: For every project located in 'Stafford', list the project number, the controlling department number, and the department manager's last name,address, ******** and birth date. Pnumber, Dnum, Lname, Address, Bdate(((Plocation=‘Stafford’(PROJECT)) Dnum=Dnumber(DEPARTMENT)) Mgr_ssn=Ssn(EMPLOYEE)) *********** ******* ********** *** ***
+                       D     D      D        D                                      D                         D                      D                                                 S                                                                                        S                  S        D                        S     S      S        S                                      S                         S                      S           D       D          D   D   D
+Substitutions: 10
+Insertions   : 0
+Deletions    : 13
+Hits         : 23 of 46
+
+SHEET -> 00-40.txt;2;14;2;30;46;3;7;8;23;34;10;0;13;23;46
+

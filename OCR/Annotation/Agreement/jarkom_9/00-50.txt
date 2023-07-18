@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+HYP: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+IRFAN VS RAFI
+REF: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+HYP: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+
+KENTA VS RAFI
+REF: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+HYP: Socket programming goal: learn how to build client/server applications that communicate using sockets socket: door between application process and end-end-transport protocol
+                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 21 of 21
+
+SHEET -> 00-50.txt;0;0;0;21;21;0;0;0;21;21;0;0;0;21;21
+

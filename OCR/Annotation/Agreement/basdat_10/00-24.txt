@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: References Elmasri 7th edition: Chapter 8
+HYP: References Elmasri 7th edition: Chapter 8
+                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 6 of 6
+
+
+IRFAN VS RAFI
+REF: References Elmasri 7th edition: Chapter 8
+HYP: References Elmasri 6th edition: Chapter 6
+                          S                  S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 4 of 6
+
+
+KENTA VS RAFI
+REF: References Elmasri 7th edition: Chapter 8
+HYP: References Elmasri 6th edition: Chapter 6
+                          S                  S
+Substitutions: 2
+Insertions   : 0
+Deletions    : 0
+Hits         : 4 of 6
+
+SHEET -> 00-24.txt;0;0;0;6;6;2;0;0;4;6;2;0;0;4;6
+

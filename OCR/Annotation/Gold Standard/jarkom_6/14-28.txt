@@ -1,0 +1,1 @@
+Caching DNS Information once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query caching improves response time cache entries timeout (disappear) after some time (TTL) TLD servers typically cached in local name servers

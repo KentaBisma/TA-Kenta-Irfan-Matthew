@@ -1,0 +1,1 @@
+Socket programming with TCP Client must contact server server process must first be running server must have created socket (door) that welcomes client’s contact

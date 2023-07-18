@@ -1,0 +1,20 @@
+Exercise
+1. For each department, retrieve the department name and the average salary of all employees working in that department.
+2. Retrieve the average salary of all female employees.
+3. Show the result of following operation:
+a. T1 T1.P=T2.A T2
+b. T1 T1.Q=T2.B T2
+c. T1 T1.P=T2.A T2
+d. T1 T1.Q=T2.B T2
+e. T1 T2
+f. T1 (T1.P=T2.A AND T1.R=T2.C) T2
+TABLE T1
+P Q R
+10 a 5
+15 b 8
+25 a 6
+TABLE T2
+A B C
+10 b 6
+25 c 3
+10 b 5

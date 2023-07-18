@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients ….quite simply: this solution doesn’t scale
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients ….quite simply: this solution doesn’t scale
+                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 48 of 48
+
+
+IRFAN VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients   ….quite simply: this solution doesn’t scale
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients ....quite simply: this solution doesn’t scale
+                                                                                                                                                                                                                                                                                                                      S                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 47 of 48
+
+
+KENTA VS RAFI
+REF: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients   ….quite simply: this solution doesn’t scale
+HYP: Content distribution networks (CDNs) challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users? option 1: single, large “mega-server” single point of failure point of network congestion long (and possibly congested) path to distant clients ....quite simply: this solution doesn’t scale
+                                                                                                                                                                                                                                                                                                                      S                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 47 of 48
+
+SHEET -> 15-53.txt;0;0;0;48;48;1;0;0;47;48;1;0;0;47;48
+

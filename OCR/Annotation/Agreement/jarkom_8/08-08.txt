@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes
+                                                                                                                                                                              
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 25 of 25
+
+
+IRFAN VS RAFI
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes ******* ****** ******** ******* ** ******* * ****** ** **** ***** **** ******** **** **** *** ******* ***** ***** ******** *** ****** ** ******** ****** *** ***** * ******** ****** ******** ******* ** ******* ******** ***** ** **** **** **** *********** **** ***** * ***** ***
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes spatial coding example: instead of sending N values of same color (all purple), send only two values: color value (purple) and number of repeated values (N) frame i temporal coding example: instead of sending complete frame at i+1, send only differences from frame i frame i+1
+                                                                                                                                                                                     I      I        I       I  I       I I      I  I    I     I    I        I    I    I   I       I     I     I        I   I      I  I        I      I   I     I I        I      I        I       I  I       I        I     I  I    I    I    I           I    I     I I     I   I
+Substitutions: 0
+Insertions   : 46
+Deletions    : 0
+Hits         : 25 of 71
+
+
+KENTA VS RAFI
+REF: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes ******* ****** ******** ******* ** ******* * ****** ** **** ***** **** ******** **** **** *** ******* ***** ***** ******** *** ****** ** ******** ****** *** ***** * ******** ****** ******** ******* ** ******* ******** ***** ** **** **** **** *********** **** ***** * ***** ***
+HYP: Multimedia: video CBR: (constant bit rate): video encoding rate fixed VBR: (variable bit rate): video encoding rate changes as amount of spatial, temporal coding changes spatial coding example: instead of sending N values of same color (all purple), send only two values: color value (purple) and number of repeated values (N) frame i temporal coding example: instead of sending complete frame at i+1, send only differences from frame i frame i+1
+                                                                                                                                                                                     I      I        I       I  I       I I      I  I    I     I    I        I    I    I   I       I     I     I        I   I      I  I        I      I   I     I I        I      I        I       I  I       I        I     I  I    I    I    I           I    I     I I     I   I
+Substitutions: 0
+Insertions   : 46
+Deletions    : 0
+Hits         : 25 of 71
+
+SHEET -> 08-08.txt;0;0;0;25;25;0;46;0;25;71;0;46;0;25;71
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport #
+HYP: DNS: Domain Name System people: many identifiers: SSN, name, passport #
+                                                                            
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 11 of 11
+
+
+IRFAN VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport #
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor #
+                                                                         S  
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 10 of 11
+
+
+KENTA VS RAFI
+REF: DNS: Domain Name System people: many identifiers: SSN, name, passport #
+HYP: DNS: Domain Name System people: many identifiers: SSN, name,  passpor #
+                                                                         S  
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 10 of 11
+
+SHEET -> 00-47.txt;0;0;0;11;11;1;0;0;10;11;1;0;0;10;11
+

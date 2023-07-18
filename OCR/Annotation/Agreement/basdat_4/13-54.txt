@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR, …); We may specify primary key and foreign keys (more on next slides..)
+HYP: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR, …); We may specify primary key and foreign keys (more on next slides..)
+                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 47 of 47
+
+
+IRFAN VS RAFI
+REF: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR,   …); We may specify primary key and foreign keys (more on next slides..)
+HYP: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR, ...); We may specify primary key and foreign keys (more on next slides..)
+                                                                                                                                                                                                                                    S                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 46 of 47
+
+
+KENTA VS RAFI
+REF: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR,   …); We may specify primary key and foreign keys (more on next slides..)
+HYP: Create a TABLE Specify a new relation Provide name, attributes, and initial constraints (data types) A constraint NOT NULL may be specified on an attribute CREATE TABLE EMPLOYEE (Fname VARCHAR(15) NOT NULL, Minit CHAR, ...); We may specify primary key and foreign keys (more on next slides..)
+                                                                                                                                                                                                                                    S                                                                    
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 46 of 47
+
+SHEET -> 13-54.txt;0;0;0;47;47;1;0;0;46;47;1;0;0;46;47
+

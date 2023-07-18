@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = ‘Bellaire’, Dnum = 5 WHERE Pnumber=10;
+HYP: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = 'Bellaire', Dnum = 5 WHERE Pnumber=10;
+                                                                                                                                                                                                                           S                           
+Substitutions: 1
+Insertions   : 0
+Deletions    : 0
+Hits         : 38 of 39
+
+
+IRFAN VS RAFI
+REF: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = ‘Bellaire’, Dnum = 5 WHERE ******** Pnumber=10;
+HYP: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = 'Bellaire', Dnum = 5 WHERE Pnumber=         10;
+                                                                                                                                                                                                                           S                       I           S
+Substitutions: 2
+Insertions   : 1
+Deletions    : 0
+Hits         : 37 of 40
+
+
+KENTA VS RAFI
+REF: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = 'Bellaire', Dnum = 5 WHERE ******** Pnumber=10;
+HYP: The UPDATE Command Modify attribute values of one or more selected tuples Additional SET clause in the UPDATE command Specifies attributes to be modified and new values U5: UPDATE PROJECT SET Plocation = 'Bellaire', Dnum = 5 WHERE Pnumber=         10;
+                                                                                                                                                                                                                                                   I           S
+Substitutions: 1
+Insertions   : 1
+Deletions    : 0
+Hits         : 38 of 40
+
+SHEET -> 37-49.txt;1;0;0;38;39;2;1;0;37;40;1;1;0;38;40
+

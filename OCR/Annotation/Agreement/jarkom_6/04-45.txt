@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 59 of 59
+
+
+IRFAN VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 59 of 59
+
+
+KENTA VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name Q: Why not centralize DNS? single point of failure traffic volume distant centralized database maintenance A: doesn‘t scale! Comcast DNS servers alone: 600B DNS queries/day Akamai DNS servers alone: 2.2T DNS queries/day
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 59 of 59
+
+SHEET -> 04-45.txt;0;0;0;59;59;0;0;0;59;59;0;0;0;59;59
+

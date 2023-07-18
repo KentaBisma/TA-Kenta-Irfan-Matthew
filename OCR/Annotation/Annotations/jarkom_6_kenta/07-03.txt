@@ -1,0 +1,18 @@
+DNS: a distributed, hierarchical database
+Root DNS Servers
+Root
+.com DNS servers
+.org DNS servers
+.edu DNS servers
+Top Level Domain
+yahoo.com
+DNS servers
+amazon.com
+DNS servers
+pbs.org
+DNS servers
+nyu.edu
+DNS servers
+umass.edu
+DNS servers
+Authoritative

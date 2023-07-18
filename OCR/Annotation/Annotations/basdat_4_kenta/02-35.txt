@@ -1,0 +1,12 @@
+SQL DDL and DML
+DDL : Data Definition Language
+Defining the Relational Schema – Relations, Attributes, Domain, The Meta-Data
+Create table
+Drop table
+Alter table
+etc.
+DML : Data Manipulation Language
+Defining the Queries Against the Schema
+Select, Insert, Update, Delete
+More commands
+Indexes, Constraints, Views, Triggers, Transactions

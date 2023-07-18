@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative
+                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 37 of 37
+
+
+IRFAN VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain ********* *** ******* ********** *** ******* ******* *** ******* ******* *** ******* ********* *** ******* *************
+                                                                                                                                                 D   D       D          D   D       D       D   D       D       D   D       D         D   D       D             D
+Substitutions: 0
+Insertions   : 0
+Deletions    : 16
+Hits         : 21 of 37
+
+
+KENTA VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain ********* *** ******* ********** *** ******* ******* *** ******* ******* *** ******* ********* *** ******* *************
+                                                                                                                                                 D   D       D          D   D       D       D   D       D       D   D       D         D   D       D             D
+Substitutions: 0
+Insertions   : 0
+Deletions    : 16
+Hits         : 21 of 37
+
+SHEET -> 07-03.txt;0;0;0;37;37;0;0;16;21;37;0;0;16;21;37
+

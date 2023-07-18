@@ -1,0 +1,3 @@
+Content distribution networks (CDNs)
+challenge: how to stream content (selected from millions of videos) to hundreds of thousands of simultaneous users?
+option 2: store/serve multiple copies of videos at multiple geographically distributed sites (CDN)

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) attach server name, port to message; send into socket clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() ****** ****** ***** **** ** ******** **** **** ******
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) ****** ****** ***** **** ** ******** **** **** ****** clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() attach server name, port to message; send into socket
+                                                                                                                                                                                                               D      D     D    D  D        D    D    D      D                                                                                                                                                                                       I      I     I    I  I        I    I    I      I
+Substitutions: 0
+Insertions   : 9
+Deletions    : 9
+Hits         : 35 of 44
+
+
+IRFAN VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) attach server name, port to message; send into socket             clientSocket.sendto(message.encode(), (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) attach server name, port to message; send into socket clientSocket.sendto(message.encode(),(serverName, ************ serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close()
+                                                                                                                                                                                                                                                                                                                S            D                                                                                                                              
+Substitutions: 1
+Insertions   : 0
+Deletions    : 1
+Hits         : 42 of 44
+
+
+KENTA VS RAFI
+REF: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) ****** ****** ***** **** ** ******** **** **** clientSocket.sendto(message.encode(),                                      (serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() attach server name, port to message; send into socket
+HYP: Example app: UDP client Python UDPClient from socket import * serverName = ‘hostname’ serverPort = 12000 clientSocket = socket(AF_INET, SOCK_DGRAM) message = raw_input(’Input lowercase sentence:’) attach server name, port to message; send into                                socket clientSocket.sendto(message.encode(),(serverName, serverPort)) modifiedMessage, serverAddress = clientSocket.recvfrom(2048) print modifiedMessage.decode() clientSocket.close() ****** ****** ***** **** ** ******** **** **** ******
+                                                                                                                                                                                                               I      I     I    I  I        I    I    I                                     S                                                 S                                                                                                                                    D      D     D    D  D        D    D    D      D
+Substitutions: 2
+Insertions   : 8
+Deletions    : 9
+Hits         : 33 of 44
+
+SHEET -> 05-00.txt;0;9;9;35;44;1;0;1;42;44;2;8;9;33;44
+

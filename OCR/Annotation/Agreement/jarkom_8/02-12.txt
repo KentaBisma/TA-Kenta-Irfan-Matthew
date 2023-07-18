@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 51 of 51
+
+
+IRFAN VS RAFI
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 51 of 51
+
+
+KENTA VS RAFI
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020) challenge: scale - how to reach ~1B users? challenge: heterogeneity different users have different capabilities (e.g., wired versus mobile; bandwidth rich versus bandwidth poor) solution: distributed, application-level infrastructure
+                                                                                                                                                                                                                                                                                                                                                                                                                 
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 51 of 51
+
+SHEET -> 02-12.txt;0;0;0;51;51;0;0;0;51;51;0;0;0;51;51
+

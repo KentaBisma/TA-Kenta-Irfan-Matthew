@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+
+IRFAN VS RAFI
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+
+KENTA VS RAFI
+REF: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+HYP: Video Streaming and CDNs: context stream video traffic: major consumer of Internet bandwidth Netflix, YouTube, Amazon Prime: 80% of residential ISP traffic (2020)
+                                                                                                                                                                       
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 23 of 23
+
+SHEET -> 00-28.txt;0;0;0;23;23;0;0;0;23;23;0;0;0;23;23
+

@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 64 of 64
+
+
+IRFAN VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers ******* *** ******* umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+                                                                                                                                                                                                                                    I   I       I                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 3
+Deletions    : 0
+Hits         : 64 of 67
+
+
+KENTA VS RAFI
+REF: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers ******* *** ******* umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+HYP: DNS: a distributed, hierarchical database Root DNS Servers Root .com DNS servers .org DNS servers .edu DNS servers Top Level Domain yahoo.com DNS servers amazon.com DNS servers pbs.org DNS servers nyu.edu DNS servers nyu.edu DNS servers umass.edu DNS servers Authoritative Client wants IP address for www.amazon.com; 1st approximation: client queries root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server
+                                                                                                                                                                                                                                    I   I       I                                                                                                                                                                                                                  
+Substitutions: 0
+Insertions   : 3
+Deletions    : 0
+Hits         : 64 of 67
+
+SHEET -> 07-56.txt;0;0;0;64;64;0;3;0;64;67;0;3;0;64;67
+

@@ -1,0 +1,1 @@
+Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated

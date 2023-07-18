@@ -1,0 +1,6 @@
+Thinking about the DNS
+humongous distributed database:
+~ billion records, each simple
+handles many trillions of queries/day:
+many more reads than writes
+performance matters:  almost every Internet transaction interacts with DNS - msecs count!

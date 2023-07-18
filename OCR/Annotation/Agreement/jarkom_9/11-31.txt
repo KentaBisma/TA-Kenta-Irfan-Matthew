@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+IRFAN VS RAFI
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+
+KENTA VS RAFI
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated
+                                                                                                                                                                                                                                                                                
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 35 of 35
+
+SHEET -> 11-31.txt;0;0;0;35;35;0;0;0;35;35;0;0;0;35;35
+

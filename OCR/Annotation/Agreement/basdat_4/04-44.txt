@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+HYP: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 52 of 52
+
+
+IRFAN VS RAFI
+REF: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+HYP: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 52 of 52
+
+
+KENTA VS RAFI
+REF: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+HYP: Schema and Catalog Concept in SQL SQL Schema Group together tables and other constructs that belong to the same database Identified by a schema name Includes an authorization identifier and descriptors for each element Schema elements Tables, constraints, views, domains, and other constructs Each statement in SQL ends with a semicolon (;)
+                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 52 of 52
+
+SHEET -> 04-44.txt;0;0;0;52;52;0;0;0;52;52;0;0;0;52;52
+

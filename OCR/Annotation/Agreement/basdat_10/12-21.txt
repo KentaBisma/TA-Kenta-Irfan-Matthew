@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially  compatible , meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the  result , and those which are not union compatible from either relation are also kept in the result.
+HYP: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially compatible, * meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the result, * and those which are not union compatible from either relation are also kept in the result.
+                                                                                                                                                                                              S D                                                                                                                                                                                        S D                                                                                           
+Substitutions: 2
+Insertions   : 0
+Deletions    : 2
+Hits         : 74 of 78
+
+
+IRFAN VS RAFI
+REF: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially  compatible , meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the  result , and those which are not union compatible from either relation are also kept in the result.
+HYP: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially compatible, * meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the result, * and those which are not union compatible from either relation are also kept in the result.
+                                                                                                                                                                                              S D                                                                                                                                                                                        S D                                                                                           
+Substitutions: 2
+Insertions   : 0
+Deletions    : 2
+Hits         : 74 of 78
+
+
+KENTA VS RAFI
+REF: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially compatible, meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the result, and those which are not union compatible from either relation are also kept in the result.
+HYP: Outer UNION Take the union of tuples from two relations if the relations are not union compatible. Takes UNION of tuples in two relations R(X,Y) and S(X,Z) that are partially compatible, meaning that only some of their attributes, say X, are union compatible. The result relation T(X,Y,Z), the attributes that are union compatible are represented only once in the result, and those which are not union compatible from either relation are also kept in the result.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 76 of 76
+
+SHEET -> 12-21.txt;2;0;2;74;78;2;0;2;74;78;0;0;0;76;76
+

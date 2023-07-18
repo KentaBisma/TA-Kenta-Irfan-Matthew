@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 53 of 53
+
+
+IRFAN VS RAFI
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 53 of 53
+
+
+KENTA VS RAFI
+REF: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+HYP: Chapter 2: Summary Most importantly: learned about protocols! typical request/reply message exchange: client requests info or service server responds with data, status code message formats: headers: fields giving info about data data: info(payload) being communicated important themes: centralized vs. decentralized stateless vs. stateful scalability reliable vs. unreliable message transfer “complexity at network edge”
+                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 53 of 53
+
+SHEET -> 11-34.txt;0;0;0;53;53;0;0;0;53;53;0;0;0;53;53
+

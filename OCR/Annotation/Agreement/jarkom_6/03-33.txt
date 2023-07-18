@@ -1,0 +1,33 @@
+=============RESULT=============
+
+IRFAN VS KENTA
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+                                                                                                                                                                                                                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 27 of 27
+
+
+IRFAN VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+                                                                                                                                                                                                                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 27 of 27
+
+
+KENTA VS RAFI
+REF: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+HYP: DNS: services, structure DNS services: hostname-to-IP-address translation host aliasing canonical, alias names mail server aliasing load distribution replicated Web servers: many IP addresses correspond to one name
+                                                                                                                                                                                                                           
+Substitutions: 0
+Insertions   : 0
+Deletions    : 0
+Hits         : 27 of 27
+
+SHEET -> 03-33.txt;0;0;0;27;27;0;0;0;27;27;0;0;0;27;27
+

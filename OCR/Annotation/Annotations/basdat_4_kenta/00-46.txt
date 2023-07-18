@@ -1,0 +1,4 @@
+These slides are a modification to the supplementary slide of “Database System”, 7th edition, Elmasri/Navathe, 2015:
+Chapter 6 SQL: Basic SQL
+Additional materials from:
+http://www.postgresql.org/docs/current/static/index.html

@@ -1,0 +1,8 @@
+Default Values
+An attribute can be assigned with default value
+The value will be created when a new row inserted and no value is specified for that attribute
+If no default value is declared explicitly, the default value is NULL
+CREATE TABLE PRODUCTS (
+Product_no INT,
+Name VARCAR(10) NOT NULL,
+Price INT DEFAULT 9.99);
